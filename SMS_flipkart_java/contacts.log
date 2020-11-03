@@ -1,0 +1,5560 @@
+13:38:13,857  INFO SMSApplication,main:42 - Welcome to Student Management System
+13:38:13,858  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:38:16,124  INFO UserOperations,main:141 - Login
+13:38:16,124  INFO UserOperations,main:142 - Enter name : 
+13:38:21,667  INFO UserOperations,main:144 - Enter password: 
+13:38:23,389 ERROR UserOperations,main:155 - Log in failed
+13:38:23,389  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:38:25,980  INFO SMSApplication,main:54 - Exited
+17:15:48,690  INFO SMSApplication,main:42 - Welcome to Student Management System
+17:15:48,691  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+17:15:53,455  INFO UserOperations,main:141 - Login
+17:15:53,455  INFO UserOperations,main:142 - Enter name : 
+17:15:59,761  INFO UserOperations,main:144 - Enter password: 
+17:16:02,181 ERROR UserOperations,main:155 - Log in failed
+17:16:02,182  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+17:21:15,352  INFO UserOperations,main:141 - Login
+17:21:15,353  INFO UserOperations,main:142 - Enter name : 
+17:21:17,453  INFO UserOperations,main:144 - Enter password: 
+17:21:18,828 ERROR UserOperations,main:155 - Log in failed
+17:21:18,828  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:07:08,791  INFO SMSApplication,main:42 - Welcome to Student Management System
+18:07:08,793  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:07:11,499  INFO UserOperations,main:141 - Login
+18:07:11,499  INFO UserOperations,main:142 - Enter name : 
+18:07:15,113  INFO UserOperations,main:144 - Enter password: 
+18:07:17,004 ERROR UserOperations,main:155 - Log in failed
+18:07:17,004  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:14:21,109  INFO SMSApplication,main:42 - Welcome to Student Management System!
+21:14:21,115  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:15:06,297  INFO SMSApplication,main:42 - Welcome to Student Management System!
+21:15:06,299  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:15:07,429  INFO UserOperations,main:141 - Login
+21:15:07,429  INFO UserOperations,main:142 - Enter name : 
+21:15:09,315  INFO UserOperations,main:144 - Enter password: 
+21:15:10,449 ERROR UserOperations,main:155 - Log in failed
+21:15:10,449  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:15:54,446 ERROR SMSApplication,main:50 - Error occurred: For input string: ""
+21:15:54,446  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:15:54,446  INFO SMSApplication,main:54 - Exited
+21:18:08,985  INFO SMSApplication,main:42 - Welcome to Student Management System!
+21:18:08,986  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:18:12,916  INFO UserOperations,main:141 - Login
+21:18:12,916  INFO UserOperations,main:142 - Enter name : 
+21:18:14,938  INFO UserOperations,main:144 - Enter password: 
+21:18:15,666  INFO UserOperations,main:165 - Welcome admin
+21:18:15,670  INFO ProfessorConsole,main:28 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account6. Sign up for course
+21:18:19,271  INFO SMSApplication,main:54 - Exited
+21:18:59,398  INFO SMSApplication,main:42 - Welcome to Student Management System!
+21:18:59,399  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:19:01,442  INFO UserOperations,main:141 - Login
+21:19:01,442  INFO UserOperations,main:142 - Enter name : 
+21:19:03,624  INFO UserOperations,main:144 - Enter password: 
+21:19:04,364  INFO UserOperations,main:165 - Welcome admin
+21:19:04,366  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+21:19:06,848  INFO SMSApplication,main:54 - Exited
+21:30:02,366  INFO SMSApplication,main:42 - Welcome to Student Management System!
+21:30:02,367  INFO DashboardConsole,main:24 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+21:30:06,687  INFO UserOperations,main:141 - Login
+21:30:06,688  INFO UserOperations,main:142 - Enter name : 
+21:30:08,463  INFO UserOperations,main:144 - Enter password: 
+21:30:09,298  INFO UserOperations,main:165 - Welcome admin
+21:30:09,301  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+21:30:12,065  INFO UserOperations,main:84 - List users
+21:30:12,073  INFO UserOperations,main:101 - 
+id		name
+
+1	admin
+
+21:30:12,074  INFO AdminConsole,main:83 - continue...
+21:30:17,460  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+21:30:20,951  INFO SMSApplication,main:54 - Exited
+18:23:55,639  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:23:55,641  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:23:57,337  INFO UserOperations,main:141 - Login
+18:23:57,337  INFO UserOperations,main:142 - Enter name : 
+18:24:00,970  INFO UserOperations,main:144 - Enter password: 
+18:24:02,534 ERROR UserOperations,main:161 - 
+18:24:02,535 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.Login.getId()" because "this.login" is null
+18:24:02,535  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:24:08,484  INFO SMSApplication,main:60 - Exited
+18:25:40,763  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:25:40,764  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:25:43,478  INFO SMSApplication,main:60 - Exited
+18:28:38,936  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:28:38,937  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:28:40,049  INFO UserOperations,main:141 - Login
+18:28:40,050  INFO UserOperations,main:142 - Enter name : 
+18:28:41,761  INFO UserOperations,main:144 - Enter password: 
+18:28:43,005 ERROR UserOperations,main:161 - 
+18:28:43,006 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.Login.getId()" because "this.login" is null
+18:28:43,006  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:30:26,657  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:30:26,657  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:30:29,847  INFO UserOperations,main:141 - Login
+18:30:29,847  INFO UserOperations,main:142 - Enter name : 
+18:30:32,112  INFO UserOperations,main:144 - Enter password: 
+18:30:33,650 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:30:33,650  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:31:25,396  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:31:25,398  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:31:27,072  INFO UserOperations,main:141 - Login
+18:31:27,072  INFO UserOperations,main:142 - Enter name : 
+18:31:29,468  INFO UserOperations,main:144 - Enter password: 
+18:32:43,981 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:32:43,982  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:32:59,729  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:32:59,730  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:33:01,202  INFO UserOperations,main:141 - Login
+18:33:01,202  INFO UserOperations,main:142 - Enter name : 
+18:33:02,502  INFO UserOperations,main:144 - Enter password: 
+18:33:21,568 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:33:21,568  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:33:43,278  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:33:43,279  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:33:45,026  INFO UserOperations,main:141 - Login
+18:33:45,027  INFO UserOperations,main:142 - Enter name : 
+18:33:46,316  INFO UserOperations,main:144 - Enter password: 
+18:33:47,509 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:33:47,509  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:33:57,975  INFO UserOperations,main:141 - Login
+18:33:57,975  INFO UserOperations,main:142 - Enter name : 
+18:33:59,484  INFO UserOperations,main:144 - Enter password: 
+18:34:01,831 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:34:01,831  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:34:31,427  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:34:31,428  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:34:54,822  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:34:54,823  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:34:55,179  INFO UserOperations,main:141 - Login
+18:34:55,179  INFO UserOperations,main:142 - Enter name : 
+18:34:56,579  INFO UserOperations,main:144 - Enter password: 
+18:35:11,762 ERROR SMSApplication,main:56 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+18:35:11,763  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:35:18,122  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:35:18,123  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:35:19,149  INFO UserOperations,main:141 - Login
+18:35:19,150  INFO UserOperations,main:142 - Enter name : 
+18:35:20,935  INFO UserOperations,main:144 - Enter password: 
+18:35:22,271  INFO UserOperations,main:165 - Welcome shubham
+18:35:22,273  INFO StudentConsole,main:28 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+18:35:29,948  INFO SMSApplication,main:60 - Exited
+18:35:34,623  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:35:34,624  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:35:36,428 ERROR SMSApplication,main:56 - Error occurred: For input string: "shubham"
+18:35:36,428  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:35:39,170  INFO UserOperations,main:141 - Login
+18:35:39,170  INFO UserOperations,main:142 - Enter name : 
+18:35:41,057  INFO UserOperations,main:144 - Enter password: 
+18:35:42,157  INFO UserOperations,main:165 - Welcome shubham
+18:35:42,158  INFO StudentConsole,main:28 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+18:35:45,413  INFO UserOperations,main:188 - logged out
+18:35:45,414  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:35:46,950  INFO SMSApplication,main:60 - Exited
+18:36:40,312  INFO SMSApplication,main:48 - Welcome to Student Management System!
+18:36:40,313  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:36:41,117  INFO UserOperations,main:141 - Login
+18:36:41,118  INFO UserOperations,main:142 - Enter name : 
+18:36:43,030  INFO UserOperations,main:144 - Enter password: 
+18:36:43,963  INFO UserOperations,main:165 - Welcome shubham
+18:36:43,964  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:36:47,543  INFO CourseOperations,main:63 - List courses
+18:36:47,553  INFO CourseOperations,main:80 - 
+id	name
+
+0	Science
+
+18:36:47,554  INFO AdminConsole,main:83 - continue...
+18:36:53,350  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:36:53,350 ERROR SMSApplication,main:56 - Error occurred: For input string: ""
+18:36:53,351  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:36:53,514 ERROR SMSApplication,main:56 - Error occurred: For input string: ""
+18:36:53,515  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:37:02,094  INFO CourseOperations,main:63 - List courses
+18:37:02,096  INFO CourseOperations,main:80 - 
+id	name
+
+0	Science
+
+18:37:02,096  INFO AdminConsole,main:83 - continue...
+18:37:03,484  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:38:59,726  INFO SMSApplication,main:54 - Welcome to Student Management System!
+18:38:59,727  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:39:00,382  INFO UserOperations,main:141 - Login
+18:39:00,382  INFO UserOperations,main:142 - Enter name : 
+18:39:02,151  INFO UserOperations,main:144 - Enter password: 
+18:39:02,947  INFO UserOperations,main:165 - Welcome shubham
+18:39:02,948  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+18:39:04,804  INFO UserOperations,main:188 - logged out
+18:39:04,805  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:39:05,983  INFO SMSApplication,main:66 - Exited
+18:44:55,789  INFO SMSApplication,main:54 - Welcome to Student Management System!
+18:44:55,790  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+18:44:57,158  INFO SMSApplication,main:66 - Exited
+19:07:41,096  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:07:41,097  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:07:44,535  INFO UserOperations,main:151 - Login
+19:07:44,536  INFO UserOperations,main:152 - Enter username: 
+19:07:50,386  INFO UserOperations,main:154 - Enter password: 
+19:07:51,297 ERROR UserOperations,main:168 - Failed to login. Please check your username and password.
+19:07:51,298 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+19:07:51,298  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:07:54,289  INFO UserOperations,main:32 - User registration
+19:07:54,290  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:07:57,280  INFO UserOperations,main:55 - Enter username : 
+19:08:01,998  INFO UserOperations,main:57 - Enter password: 
+19:08:05,645  INFO UserOperations,main:59 - Enter name : 
+19:08:08,636  INFO UserOperations,main:77 - User soham is registered
+19:08:08,636  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:15:27,330  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:15:27,331  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:15:29,229  INFO UserOperations,main:32 - User registration
+19:15:29,229  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:15:31,666  INFO UserOperations,main:55 - Enter username : 
+19:15:34,743  INFO UserOperations,main:57 - Enter password: 
+19:15:37,442  INFO UserOperations,main:59 - Enter name : 
+19:15:39,950  INFO UserOperations,main:77 - User shubham is registered
+19:15:39,951  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:17:06,650  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:17:06,651  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:17:08,193  INFO UserOperations,main:32 - User registration
+19:17:08,194  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:17:09,654 ERROR SMSApplication,main:62 - Error occurred: For input string: "admin"
+19:17:09,655  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:17:10,533 ERROR SMSApplication,main:62 - Error occurred: For input string: "sqa"
+19:17:10,533  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:17:12,940  INFO UserOperations,main:32 - User registration
+19:17:12,940  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:17:14,173 ERROR SMSApplication,main:62 - Error occurred: For input string: "admin"
+19:17:14,174  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:17:16,529  INFO UserOperations,main:32 - User registration
+19:17:16,529  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:17:19,643  INFO UserOperations,main:55 - Enter username : 
+19:17:20,987  INFO UserOperations,main:57 - Enter password: 
+19:17:22,476  INFO UserOperations,main:59 - Enter name : 
+19:18:00,124  INFO UserOperations,main:77 - User shubham is registered
+19:18:00,124  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:20:49,888  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:20:49,888  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:20:51,538  INFO UserOperations,main:32 - User registration
+19:20:51,539  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:20:53,625  INFO UserOperations,main:55 - Enter username : 
+19:20:55,226  INFO UserOperations,main:57 - Enter password: 
+19:20:56,634  INFO UserOperations,main:59 - Enter name : 
+19:20:58,763  INFO UserOperations,main:77 - User shubham is registered
+19:20:58,763  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:21:25,635  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:21:25,636  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:21:28,319  INFO UserOperations,main:32 - User registration
+19:21:28,320  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:21:29,592 ERROR SMSApplication,main:62 - Error occurred: For input string: "admin"
+19:21:29,593  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:21:30,189 ERROR SMSApplication,main:62 - Error occurred: For input string: "sqa"
+19:21:30,189  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:21:32,359  INFO UserOperations,main:32 - User registration
+19:21:32,360  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:21:34,929  INFO UserOperations,main:55 - Enter username : 
+19:21:36,055  INFO UserOperations,main:57 - Enter password: 
+19:21:37,754  INFO UserOperations,main:59 - Enter name : 
+19:21:57,430  INFO UserOperations,main:77 - User shubham is registered
+19:21:57,431  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:23:37,644  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:23:37,647  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:24:39,867  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:24:39,867  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:24:40,744  INFO UserOperations,main:32 - User registration
+19:24:40,744  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:24:45,595  INFO UserOperations,main:55 - Enter username : 
+19:24:47,848  INFO UserOperations,main:57 - Enter password: 
+19:24:48,903  INFO UserOperations,main:59 - Enter name : 
+19:24:52,857  INFO UserOperations,main:77 - User shubham is registered
+19:24:52,857  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:08,692  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:26:08,694  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:11,160  INFO UserOperations,main:32 - User registration
+19:26:11,161  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:26:12,618 ERROR SMSApplication,main:62 - Error occurred: For input string: "admin"
+19:26:12,618  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:14,821  INFO UserOperations,main:32 - User registration
+19:26:14,822  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:26:16,098 ERROR SMSApplication,main:62 - Error occurred: For input string: "admin"
+19:26:16,098  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:17,426  INFO UserOperations,main:32 - User registration
+19:26:17,426  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:26:19,189  INFO UserOperations,main:55 - Enter username : 
+19:26:20,656  INFO UserOperations,main:57 - Enter password: 
+19:26:21,887  INFO UserOperations,main:59 - Enter name : 
+19:26:23,404  INFO UserOperations,main:77 - User shubham is registered
+19:26:23,404  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:42,036  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:26:42,040  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:26:42,671  INFO UserOperations,main:32 - User registration
+19:26:42,671  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:26:44,819  INFO UserOperations,main:55 - Enter username : 
+19:26:46,111  INFO UserOperations,main:57 - Enter password: 
+19:26:46,909  INFO UserOperations,main:59 - Enter name : 
+19:26:56,059  INFO UserOperations,main:77 - User shubham is registered
+19:26:56,059  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:27:13,270  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:27:13,271  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:27:14,402  INFO UserOperations,main:32 - User registration
+19:27:14,403  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:27:16,201  INFO UserOperations,main:55 - Enter username : 
+19:27:17,413  INFO UserOperations,main:57 - Enter password: 
+19:27:18,283  INFO UserOperations,main:59 - Enter name : 
+19:27:19,895  INFO UserOperations,main:77 - User shubham is registered
+19:27:19,895  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:27:26,969  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:27:26,971  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:27:28,282  INFO UserOperations,main:32 - User registration
+19:27:28,282  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:27:31,008  INFO UserOperations,main:55 - Enter username : 
+19:27:32,252  INFO UserOperations,main:57 - Enter password: 
+19:27:32,921  INFO UserOperations,main:59 - Enter name : 
+19:27:47,106  INFO UserOperations,main:77 - User shubham is registered
+19:27:47,106  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:42:09,200  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:42:09,204  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:42:10,588  INFO UserOperations,main:32 - User registration
+19:42:10,589  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:42:12,448  INFO UserOperations,main:55 - Enter username : 
+19:42:17,076  INFO UserOperations,main:57 - Enter password: 
+19:42:18,639  INFO UserOperations,main:59 - Enter name : 
+19:42:20,250  INFO UserOperations,main:77 - User shubham is registered
+19:42:20,251  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:45:29,249  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:45:29,250  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:45:30,412  INFO UserOperations,main:32 - User registration
+19:45:30,412  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:45:32,280  INFO UserOperations,main:55 - Enter username : 
+19:45:34,543  INFO UserOperations,main:57 - Enter password: 
+19:45:35,890  INFO UserOperations,main:59 - Enter name : 
+19:45:37,452  INFO UserOperations,main:77 - User abcd is registered
+19:45:37,453  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:49:52,478  INFO SMSApplication,main:54 - Welcome to Student Management System!
+19:49:52,480  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:49:53,827  INFO UserOperations,main:32 - User registration
+19:49:53,828  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+19:49:55,638  INFO UserOperations,main:55 - Enter username : 
+19:50:00,083  INFO UserOperations,main:57 - Enter password: 
+19:50:02,289  INFO UserOperations,main:59 - Enter name : 
+19:50:05,453  INFO UserOperations,main:77 - User abcde is registered
+19:50:05,454  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:50:07,574  INFO UserOperations,main:151 - Login
+19:50:07,575  INFO UserOperations,main:152 - Enter username: 
+19:50:09,875  INFO UserOperations,main:154 - Enter password: 
+19:50:12,957 ERROR UserOperations,main:168 - User is not approved. Please contact your administrator.
+19:50:12,957 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+19:50:12,957  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+19:50:17,618  INFO SMSApplication,main:66 - Exited
+20:03:39,547  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:03:39,548  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:03:41,109  INFO UserOperations,main:32 - User registration
+20:03:41,110  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:03:43,513  INFO UserOperations,main:55 - Enter username : 
+20:03:46,395  INFO UserOperations,main:57 - Enter password: 
+20:03:47,627  INFO UserOperations,main:59 - Enter name : 
+20:03:50,980 ERROR UserManagementServiceImpl,main:27 - Login operation failed
+20:03:50,980 ERROR UserOperations,main:74 - User registration failed
+20:03:50,980  INFO UserOperations,main:77 - User shubham is registered
+20:03:50,980  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:03:55,843  INFO UserOperations,main:32 - User registration
+20:03:55,844  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:03:58,165 ERROR SMSApplication,main:62 - Error occurred: For input string: "hello"
+20:03:58,165  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:04:00,107  INFO UserOperations,main:32 - User registration
+20:04:00,108  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:04:01,251 ERROR SMSApplication,main:62 - Error occurred: For input string: "hello"
+20:04:01,252  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:04:03,352  INFO UserOperations,main:32 - User registration
+20:04:03,352  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:04:05,284  INFO UserOperations,main:55 - Enter username : 
+20:04:06,625  INFO UserOperations,main:57 - Enter password: 
+20:04:07,740  INFO UserOperations,main:59 - Enter name : 
+20:04:08,971 ERROR UserManagementServiceImpl,main:27 - User operation failed
+20:04:08,971 ERROR UserOperations,main:74 - User registration failed
+20:04:08,971  INFO UserOperations,main:77 - User hello is registered
+20:04:08,971  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:05:15,434  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:05:15,436  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:05:17,001  INFO UserOperations,main:32 - User registration
+20:05:17,001  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:05:19,351  INFO UserOperations,main:55 - Enter username : 
+20:05:20,917  INFO UserOperations,main:57 - Enter password: 
+20:05:22,179  INFO UserOperations,main:59 - Enter name : 
+20:05:23,238  INFO UserOperations,main:77 - User abcd is registered
+20:05:23,238  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:05:25,017  INFO UserOperations,main:151 - Login
+20:05:25,018  INFO UserOperations,main:152 - Enter username: 
+20:05:26,715  INFO UserOperations,main:154 - Enter password: 
+20:05:28,355 ERROR UserOperations,main:168 - User is not approved. Please contact your administrator.
+20:05:28,356 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:05:28,356  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:05:33,635  INFO SMSApplication,main:66 - Exited
+20:05:56,719  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:05:56,720  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:05:58,946  INFO UserOperations,main:32 - User registration
+20:05:58,946  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:06:01,908  INFO UserOperations,main:55 - Enter username : 
+20:06:04,505  INFO UserOperations,main:57 - Enter password: 
+20:06:05,494  INFO UserOperations,main:59 - Enter name : 
+20:06:06,624  INFO UserOperations,main:77 - User soham is registered
+20:06:06,624  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:06:09,223  INFO UserOperations,main:151 - Login
+20:06:09,223  INFO UserOperations,main:152 - Enter username: 
+20:06:10,755  INFO UserOperations,main:154 - Enter password: 
+20:06:12,416 ERROR UserOperations,main:168 - User is not approved. Please contact your administrator.
+20:06:12,416 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:06:12,416  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:06:14,905  INFO SMSApplication,main:66 - Exited
+20:06:54,368  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:06:54,370  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:06:55,428  INFO UserOperations,main:151 - Login
+20:06:55,428  INFO UserOperations,main:152 - Enter username: 
+20:06:57,130  INFO UserOperations,main:154 - Enter password: 
+20:06:58,029 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:06:58,030 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:06:58,030  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:07:08,748  INFO UserOperations,main:151 - Login
+20:07:08,748  INFO UserOperations,main:152 - Enter username: 
+20:07:10,586  INFO UserOperations,main:154 - Enter password: 
+20:07:11,823 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:07:11,824 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:07:11,824  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:07:13,536  INFO SMSApplication,main:66 - Exited
+20:07:24,295  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:07:24,296  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:07:26,106  INFO UserOperations,main:151 - Login
+20:07:26,106  INFO UserOperations,main:152 - Enter username: 
+20:07:27,482  INFO UserOperations,main:154 - Enter password: 
+20:07:29,020  INFO UserOperations,main:172 - Welcome Hello world!
+20:07:29,024  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:07:38,414  INFO UserOperations,main:190 - logged out
+20:07:38,414  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:07:39,818  INFO UserOperations,main:151 - Login
+20:07:39,818  INFO UserOperations,main:152 - Enter username: 
+20:07:41,424  INFO UserOperations,main:154 - Enter password: 
+20:07:42,540 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:07:42,540 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:07:42,541  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:09:10,011  INFO UserOperations,main:151 - Login
+20:09:10,012  INFO UserOperations,main:152 - Enter username: 
+20:09:12,530  INFO UserOperations,main:154 - Enter password: 
+20:09:14,430 ERROR UserOperations,main:168 - User is not approved. Please contact your administrator.
+20:09:14,431 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:09:14,431 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:09:14,431  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:09:20,427  INFO SMSApplication,main:66 - Exited
+20:09:39,259  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:09:39,260  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:09:40,614  INFO UserOperations,main:151 - Login
+20:09:40,614  INFO UserOperations,main:152 - Enter username: 
+20:09:49,915  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:09:49,916  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:09:50,993  INFO UserOperations,main:32 - User registration
+20:09:50,993  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:09:53,679  INFO UserOperations,main:55 - Enter username : 
+20:09:54,898  INFO UserOperations,main:57 - Enter password: 
+20:09:56,108  INFO UserOperations,main:59 - Enter name : 
+20:09:59,777 ERROR UserManagementServiceImpl,main:27 - Login operation failed
+20:09:59,778 ERROR UserOperations,main:74 - User registration failed
+20:09:59,778  INFO UserOperations,main:77 - User shubham is registered
+20:09:59,778  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:10:21,028  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:10:21,029  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:10:22,113  INFO UserOperations,main:151 - Login
+20:10:22,113  INFO UserOperations,main:152 - Enter username: 
+20:10:24,887  INFO UserOperations,main:154 - Enter password: 
+20:10:25,859 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:10:25,860 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:10:25,860  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:10:58,246  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:10:58,247  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:10:59,990  INFO UserOperations,main:151 - Login
+20:10:59,990  INFO UserOperations,main:152 - Enter username: 
+20:11:02,197  INFO UserOperations,main:154 - Enter password: 
+20:11:02,858 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:11:02,859 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:11:02,859  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:11:14,683  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:11:14,684  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:11:15,446  INFO UserOperations,main:151 - Login
+20:11:15,446  INFO UserOperations,main:152 - Enter username: 
+20:11:17,138  INFO UserOperations,main:154 - Enter password: 
+20:12:11,019 ERROR AuthenticationServiceImpl,main:54 - User not found.
+20:12:11,023 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+20:12:11,024  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:12:55,012  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:12:55,013  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:12:56,844  INFO UserOperations,main:151 - Login
+20:12:56,844  INFO UserOperations,main:152 - Enter username: 
+20:13:01,171  INFO UserOperations,main:154 - Enter password: 
+20:13:02,375  INFO UserOperations,main:172 - Welcome Hello world!
+20:13:02,376  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:13:05,996  INFO CourseOperations,main:63 - List courses
+20:13:06,007  INFO CourseOperations,main:80 - 
+id	name
+
+0	Science
+
+20:13:06,008  INFO AdminConsole,main:83 - continue...
+20:13:13,212  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:13:13,212 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+20:13:13,212  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:14:31,742  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:14:31,742  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:14:35,502  INFO UserOperations,main:151 - Login
+20:14:35,502  INFO UserOperations,main:152 - Enter username: 
+20:14:36,600  INFO UserOperations,main:154 - Enter password: 
+20:14:37,809  INFO UserOperations,main:172 - Welcome Hello world!
+20:14:37,810  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:14:40,817  INFO CourseOperations,main:63 - List courses
+20:14:40,829  INFO CourseOperations,main:80 - 
+id	name	description
+
+0	Science	science course
+
+20:14:40,829  INFO AdminConsole,main:83 - continue...
+20:15:02,164  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:15:02,165  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:18:00,043  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:18:00,044  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:18:06,033  INFO UserOperations,main:151 - Login
+20:18:06,033  INFO UserOperations,main:152 - Enter username: 
+20:18:07,930  INFO UserOperations,main:154 - Enter password: 
+20:18:08,957  INFO UserOperations,main:172 - Welcome Hello world!
+20:18:08,957  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:18:11,708  INFO CourseOperations,main:63 - List courses
+20:18:11,720  INFO CourseOperations,main:78 - 
+id	name	description
+
+0	Science		science course
+
+20:18:11,720  INFO AdminConsole,main:83 - continue...
+20:18:14,245  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:18:16,243  INFO CourseOperations,main:27 - Add course
+20:18:16,243  INFO CourseOperations,main:28 - Enter course name : 
+20:18:21,715  INFO CourseOperations,main:30 - Enter course description : 
+20:18:27,190  INFO CourseOperations,main:43 - Course Chemistry added
+20:18:27,190  INFO AdminConsole,main:83 - continue...
+20:18:28,525  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:18:31,351  INFO CourseOperations,main:27 - Add course
+20:18:31,352  INFO CourseOperations,main:28 - Enter course name : 
+20:18:39,243  INFO CourseOperations,main:30 - Enter course description : 
+20:18:40,356  INFO CourseOperations,main:43 - Course 4 added
+20:18:40,356  INFO AdminConsole,main:83 - continue...
+20:18:42,672  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:18:44,818  INFO CourseOperations,main:63 - List courses
+20:18:44,820  INFO CourseOperations,main:78 - 
+id	name	description
+
+0	Science		science course
+0	Chemistry		chemistry course
+0	4		4
+
+20:18:44,820  INFO AdminConsole,main:83 - continue...
+20:20:16,423  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:20:16,424  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:20:18,721  INFO UserOperations,main:151 - Login
+20:20:18,721  INFO UserOperations,main:152 - Enter username: 
+20:20:20,253  INFO UserOperations,main:154 - Enter password: 
+20:20:21,437  INFO UserOperations,main:172 - Welcome Hello world!
+20:20:21,438  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:20:24,211  INFO CourseOperations,main:63 - List courses
+20:20:24,224  INFO CourseOperations,main:78 - 
+id	name	description
+
+2	Science		science course
+3	Chemistry		chemistry course
+4	4		4
+
+20:20:24,224  INFO AdminConsole,main:83 - continue...
+20:20:28,330  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:20:29,926  INFO SMSApplication,main:66 - Exited
+20:21:25,071  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:21:25,072  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:21:30,618  INFO UserOperations,main:151 - Login
+20:21:30,618  INFO UserOperations,main:152 - Enter username: 
+20:21:32,815  INFO UserOperations,main:154 - Enter password: 
+20:21:34,240  INFO UserOperations,main:172 - Welcome Hello world!
+20:21:34,240  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:21:36,644  INFO CourseOperations,main:63 - List courses
+20:21:36,658  INFO CourseOperations,main:78 - 
+id	name	fees		description
+
+2	Science	100		science course
+3	Chemistry	0		chemistry course
+4	4	0		4
+
+20:21:36,658  INFO AdminConsole,main:83 - continue...
+20:22:20,373  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:22:20,374  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:22:20,996  INFO UserOperations,main:151 - Login
+20:22:20,997  INFO UserOperations,main:152 - Enter username: 
+20:22:22,674  INFO UserOperations,main:154 - Enter password: 
+20:22:23,606  INFO UserOperations,main:172 - Welcome Hello world!
+20:22:23,607  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:22:25,715  INFO CourseOperations,main:63 - List courses
+20:22:25,731  INFO CourseOperations,main:78 - 
+id		name	fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+4	4		0		4
+
+20:22:25,731  INFO AdminConsole,main:83 - continue...
+20:22:45,389  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:22:45,390  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:22:47,524  INFO UserOperations,main:151 - Login
+20:22:47,524  INFO UserOperations,main:152 - Enter username: 
+20:22:49,523  INFO UserOperations,main:154 - Enter password: 
+20:22:50,403  INFO UserOperations,main:172 - Welcome Hello world!
+20:22:50,404  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:22:51,611  INFO CourseOperations,main:63 - List courses
+20:22:51,624  INFO CourseOperations,main:78 - 
+id		name	fees		description
+
+2		Science		100		science course
+3		Chemistry		0		chemistry course
+4		4		0		4
+
+20:22:51,625  INFO AdminConsole,main:83 - continue...
+20:23:25,560  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:23:25,561  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:23:26,589  INFO UserOperations,main:151 - Login
+20:23:26,589  INFO UserOperations,main:152 - Enter username: 
+20:23:30,296  INFO UserOperations,main:154 - Enter password: 
+20:23:31,435  INFO UserOperations,main:172 - Welcome Hello world!
+20:23:31,436  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:23:33,363  INFO CourseOperations,main:63 - List courses
+20:23:33,378  INFO CourseOperations,main:78 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+4	4		0		4
+
+20:23:33,378  INFO AdminConsole,main:83 - continue...
+20:24:48,695  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:24:48,697  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:24:49,392  INFO UserOperations,main:151 - Login
+20:24:49,393  INFO UserOperations,main:152 - Enter username: 
+20:24:50,444  INFO UserOperations,main:154 - Enter password: 
+20:24:50,995  INFO UserOperations,main:172 - Welcome Hello world!
+20:24:50,996  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:24:53,314  INFO CourseOperations,main:27 - Add course
+20:24:53,314  INFO CourseOperations,main:28 - Enter course name : 
+20:24:58,768  INFO CourseOperations,main:30 - Enter course fees: 
+20:25:01,774  INFO CourseOperations,main:32 - Enter course description : 
+20:25:05,833  INFO CourseOperations,main:46 - Course Physics added
+20:25:05,833  INFO AdminConsole,main:83 - continue...
+20:25:07,596  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:25:09,879  INFO CourseOperations,main:66 - List courses
+20:25:09,892  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+4	4		0		4
+5	Physics		100		physics course
+
+20:25:09,892  INFO AdminConsole,main:83 - continue...
+20:25:51,286  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:25:51,287  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:25:52,645  INFO UserOperations,main:151 - Login
+20:25:52,645  INFO UserOperations,main:152 - Enter username: 
+20:25:53,849  INFO UserOperations,main:154 - Enter password: 
+20:25:55,579  INFO UserOperations,main:172 - Welcome Hello world!
+20:25:55,580  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:00,110  INFO CourseOperations,main:66 - List courses
+20:26:00,127  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+4	4		0		4
+5	Physics		100		physics course
+
+20:26:00,127  INFO AdminConsole,main:83 - continue...
+20:26:04,582  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:07,074  INFO CourseOperations,main:51 - Delete course
+20:26:07,074  INFO CourseOperations,main:52 - Enter course id: 
+20:26:09,094  INFO CourseOperations,main:61 - Deleted course
+20:26:09,095  INFO AdminConsole,main:83 - continue...
+20:26:11,249  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:13,597  INFO CourseOperations,main:66 - List courses
+20:26:13,599  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+5	Physics		100		physics course
+
+20:26:13,599  INFO AdminConsole,main:83 - continue...
+20:26:15,537  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:16,435  INFO SMSApplication,main:66 - Exited
+20:26:29,724  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:26:29,725  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:26:32,071  INFO UserOperations,main:151 - Login
+20:26:32,072  INFO UserOperations,main:152 - Enter username: 
+20:26:33,530  INFO UserOperations,main:154 - Enter password: 
+20:26:34,383  INFO UserOperations,main:172 - Welcome Hello world!
+20:26:34,384  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:41,539  INFO UserOperations,main:32 - User registration
+20:26:41,539  INFO UserOperations,main:33 - Enter user type  1. Student   2. Professor  3. Admin
+20:26:45,691  INFO UserOperations,main:55 - Enter username : 
+20:26:48,129  INFO UserOperations,main:57 - Enter password: 
+20:26:50,320  INFO UserOperations,main:59 - Enter name : 
+20:26:52,494  INFO UserOperations,main:77 - User rohan is registered
+20:26:52,494  INFO AdminConsole,main:83 - continue...
+20:26:54,108  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:26:59,945  INFO UserOperations,main:98 - List users
+20:26:59,954  INFO UserOperations,main:113 - 
+id		name
+
+8	Hello world!
+12	abcd
+13	soham
+15	rohan
+
+20:26:59,954  INFO AdminConsole,main:83 - continue...
+20:28:33,396  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:28:33,397  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:28:34,447  INFO UserOperations,main:151 - Login
+20:28:34,448  INFO UserOperations,main:152 - Enter username: 
+20:28:37,738  INFO UserOperations,main:154 - Enter password: 
+20:28:38,470  INFO UserOperations,main:172 - Welcome Hello world!
+20:28:38,471  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:28:41,782  INFO UserOperations,main:98 - List users
+20:28:41,794  INFO UserOperations,main:113 - 
+id		name		role
+
+8	Hello world!		role: ADMIN
+12	abcd		role: ADMIN
+13	soham		role: STUDENT
+15	rohan		role: STUDENT
+
+20:28:41,794  INFO AdminConsole,main:83 - continue...
+20:29:05,715  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:29:05,716  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:29:06,527  INFO UserOperations,main:151 - Login
+20:29:06,528  INFO UserOperations,main:152 - Enter username: 
+20:29:07,677  INFO UserOperations,main:154 - Enter password: 
+20:29:08,303  INFO UserOperations,main:172 - Welcome Hello world!
+20:29:08,304  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:29:09,705  INFO UserOperations,main:98 - List users
+20:29:09,717  INFO UserOperations,main:113 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	abcd		ADMIN
+13	soham		STUDENT
+15	rohan		STUDENT
+
+20:29:09,718  INFO AdminConsole,main:83 - continue...
+20:29:38,169  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:29:38,170  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:29:39,331  INFO UserOperations,main:151 - Login
+20:29:39,332  INFO UserOperations,main:152 - Enter username: 
+20:29:41,710  INFO UserOperations,main:154 - Enter password: 
+20:29:42,354  INFO UserOperations,main:172 - Welcome Hello world!
+20:29:42,355  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:29:43,985  INFO UserOperations,main:136 - My account
+20:29:43,994  INFO UserOperations,main:146 - 
+id: 8
+name: Hello world!
+role: ADMIN
+20:29:43,995  INFO AdminConsole,main:83 - continue...
+20:29:47,463  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:29:55,367  INFO UserOperations,main:98 - List users
+20:29:55,375  INFO UserOperations,main:113 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	abcd		ADMIN
+13	soham		STUDENT
+15	rohan		STUDENT
+
+20:29:55,375  INFO AdminConsole,main:83 - continue...
+20:31:06,666  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:31:06,667  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:31:08,059  INFO UserOperations,main:151 - Login
+20:31:08,060  INFO UserOperations,main:152 - Enter username: 
+20:31:11,613  INFO UserOperations,main:154 - Enter password: 
+20:31:13,297  INFO UserOperations,main:172 - Welcome Hello world!
+20:31:13,298  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:31:28,062  INFO UserOperations,main:98 - List users
+20:31:28,074  INFO UserOperations,main:113 - 
+id		name		role	approved8	Hello world!		ADMIN	12	abcd		ADMIN	13	soham		STUDENT	15	rohan		STUDENT	
+20:31:28,074  INFO AdminConsole,main:83 - continue...
+20:31:46,358  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:31:46,359  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:31:47,116  INFO UserOperations,main:151 - Login
+20:31:47,116  INFO UserOperations,main:152 - Enter username: 
+20:31:49,132  INFO UserOperations,main:154 - Enter password: 
+20:31:49,710  INFO UserOperations,main:172 - Welcome Hello world!
+20:31:49,712  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:31:50,587  INFO UserOperations,main:98 - List users
+20:31:50,599  INFO UserOperations,main:113 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	abcd		ADMIN
+13	soham		STUDENT
+15	rohan		STUDENT
+
+20:31:50,599  INFO AdminConsole,main:83 - continue...
+20:33:16,281  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:33:16,283  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:33:20,463  INFO UserOperations,main:151 - Login
+20:33:20,463  INFO UserOperations,main:152 - Enter username: 
+20:33:21,963  INFO UserOperations,main:154 - Enter password: 
+20:33:23,463  INFO UserOperations,main:172 - Welcome Hello world!
+20:33:23,463  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:33:53,886  INFO UserOperations,main:118 - Approve user
+20:33:53,887  INFO UserOperations,main:119 - Enter user id: 
+20:33:56,304 ERROR UserOperations,main:127 - User approval failed
+20:33:56,304  INFO AdminConsole,main:83 - continue...
+20:36:07,896  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:36:07,898  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:36:08,900  INFO UserOperations,main:151 - Login
+20:36:08,901  INFO UserOperations,main:152 - Enter username: 
+20:36:13,263  INFO UserOperations,main:154 - Enter password: 
+20:36:14,215  INFO UserOperations,main:172 - Welcome Hello world!
+20:36:14,216  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:36:18,057  INFO UserOperations,main:118 - Approve user
+20:36:18,057  INFO UserOperations,main:119 - Enter user id: 
+20:36:19,563 ERROR UserOperations,main:127 - User approval failed
+20:36:19,563  INFO AdminConsole,main:83 - continue...
+20:41:49,099  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:41:49,100  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:41:50,708  INFO UserOperations,main:149 - Login
+20:41:50,708  INFO UserOperations,main:150 - Enter username: 
+20:41:52,001  INFO UserOperations,main:152 - Enter password: 
+20:41:53,078  INFO UserOperations,main:170 - Welcome Hello world!
+20:41:53,081  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:41:55,362  INFO UserOperations,main:118 - Approve user
+20:41:55,362  INFO UserOperations,main:119 - Enter user id: 
+20:41:57,585 ERROR AuthenticationServiceImpl,main:74 - Login operation failed
+20:41:57,585 ERROR UserOperations,main:125 - User approval failed
+20:41:57,585  INFO AdminConsole,main:83 - continue...
+20:43:29,160  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:43:29,162  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:43:31,207  INFO UserOperations,main:149 - Login
+20:43:31,208  INFO UserOperations,main:150 - Enter username: 
+20:43:32,541  INFO UserOperations,main:152 - Enter password: 
+20:43:33,605  INFO UserOperations,main:170 - Welcome Hello world!
+20:43:33,605  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:43:39,277  INFO UserOperations,main:118 - Approve user
+20:43:39,277  INFO UserOperations,main:119 - Enter user id: 
+20:43:40,705 ERROR AuthenticationServiceImpl,main:74 - Failed to login. Please check your username and password.
+20:43:40,705 ERROR UserOperations,main:125 - User approval failed
+20:43:40,705  INFO AdminConsole,main:83 - continue...
+20:43:50,120  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:44:15,963  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:44:15,964  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:44:17,296  INFO UserOperations,main:149 - Login
+20:44:17,296  INFO UserOperations,main:150 - Enter username: 
+20:44:18,786  INFO UserOperations,main:152 - Enter password: 
+20:44:22,885  INFO UserOperations,main:170 - Welcome Hello world!
+20:44:22,888  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:44:39,783  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:44:39,786  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:44:41,256  INFO UserOperations,main:149 - Login
+20:44:41,257  INFO UserOperations,main:150 - Enter username: 
+20:44:42,252  INFO UserOperations,main:152 - Enter password: 
+20:44:43,155  INFO UserOperations,main:170 - Welcome Hello world!
+20:44:43,155  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:44:50,079  INFO UserOperations,main:118 - Approve user
+20:44:50,079  INFO UserOperations,main:119 - Enter user id: 
+20:45:07,030 ERROR AuthenticationServiceImpl,main:74 - Login operation failed
+20:45:17,383 ERROR UserOperations,main:125 - User approval failed
+20:45:17,384  INFO AdminConsole,main:83 - continue...
+20:45:26,165  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:45:26,169  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:45:28,542  INFO UserOperations,main:149 - Login
+20:45:28,543  INFO UserOperations,main:150 - Enter username: 
+20:45:29,620  INFO UserOperations,main:152 - Enter password: 
+20:45:30,413  INFO UserOperations,main:170 - Welcome Hello world!
+20:45:30,414  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:45:36,409  INFO UserOperations,main:118 - Approve user
+20:45:36,410  INFO UserOperations,main:119 - Enter user id: 
+20:46:07,866 ERROR AuthenticationServiceImpl,main:74 - Login operation failed
+20:46:07,868 ERROR UserOperations,main:125 - User approval failed
+20:46:07,869  INFO AdminConsole,main:83 - continue...
+20:46:49,696  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:46:49,697  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:46:51,977  INFO UserOperations,main:149 - Login
+20:46:51,977  INFO UserOperations,main:150 - Enter username: 
+20:46:53,165  INFO UserOperations,main:152 - Enter password: 
+20:46:54,187  INFO UserOperations,main:170 - Welcome Hello world!
+20:46:54,188  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:46:57,843  INFO UserOperations,main:118 - Approve user
+20:46:57,843  INFO UserOperations,main:119 - Enter user id: 
+20:46:59,889 ERROR AuthenticationServiceImpl,main:74 - Login operation failed
+20:46:59,890 ERROR UserOperations,main:125 - User approval failed
+20:46:59,890  INFO AdminConsole,main:83 - continue...
+20:47:33,107  INFO SMSApplication,main:54 - Welcome to Student Management System!
+20:47:33,108  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:47:34,103  INFO UserOperations,main:149 - Login
+20:47:34,103  INFO UserOperations,main:150 - Enter username: 
+20:47:37,195  INFO UserOperations,main:152 - Enter password: 
+20:47:37,787  INFO UserOperations,main:170 - Welcome Hello world!
+20:47:37,788  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:47:39,327  INFO UserOperations,main:118 - Approve user
+20:47:39,327  INFO UserOperations,main:119 - Enter user id: 
+20:47:41,302  INFO UserOperations,main:129 - Approved user
+20:47:41,302  INFO AdminConsole,main:83 - continue...
+20:47:43,011  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:47:47,151  INFO UserOperations,main:98 - List users
+20:47:47,162  INFO UserOperations,main:113 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	abcd		ADMIN
+13	soham		STUDENT
+15	rohan		STUDENT
+
+20:47:47,163  INFO AdminConsole,main:83 - continue...
+20:47:53,616  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+20:47:55,282  INFO UserOperations,main:188 - logged out
+20:47:55,283  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+20:47:56,567  INFO UserOperations,main:149 - Login
+20:47:56,568  INFO UserOperations,main:150 - Enter username: 
+20:47:57,587  INFO UserOperations,main:152 - Enter password: 
+20:47:59,058  INFO UserOperations,main:170 - Welcome soham
+20:47:59,061  INFO StudentConsole,main:28 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+20:48:01,996  INFO CourseOperations,main:66 - List courses
+20:48:02,006  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+5	Physics		100		physics course
+
+20:48:02,006  INFO StudentConsole,main:61 - continue...
+20:48:08,017  INFO StudentConsole,main:28 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+10:05:56,300  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:05:56,302  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:05:57,550  INFO UserOperations,main:149 - Login
+10:05:57,550  INFO UserOperations,main:150 - Enter username: 
+10:06:00,028  INFO UserOperations,main:152 - Enter password: 
+10:06:01,296  INFO UserOperations,main:170 - Welcome Hello world!
+10:06:01,300  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+10:06:03,780  INFO SMSApplication,main:66 - Exited
+10:08:54,714  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:08:54,720  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:08:57,298  INFO SMSApplication,main:66 - Exited
+10:29:29,649  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:29:29,651  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:29:36,118  INFO SMSApplication,main:66 - Exited
+10:40:36,924  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:40:36,926  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:40:38,725  INFO UserOperations,main:147 - Login
+10:40:38,725  INFO UserOperations,main:148 - Enter username: 
+10:41:12,872  INFO UserOperations,main:150 - Enter password: 
+10:41:13,835  INFO UserOperations,main:168 - Welcome soham
+10:41:13,837  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:41:17,091  INFO EnrollmentOperations,main:34 - Pay fees
+10:41:17,091  INFO EnrollmentOperations,main:35 - Enter amount: 
+10:41:20,305 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.service.PaymentService.makePayment(com.flipkart.bean.Payment)" because "this.paymentService" is null
+10:41:20,306  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:42:44,348  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:42:44,349  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:42:45,363  INFO UserOperations,main:147 - Login
+10:42:45,363  INFO UserOperations,main:148 - Enter username: 
+10:42:47,633  INFO UserOperations,main:150 - Enter password: 
+10:42:48,573  INFO UserOperations,main:168 - Welcome soham
+10:42:48,574  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:42:51,429  INFO StudentConsole,main:78 - continue...
+10:42:54,820  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:42:57,523  INFO StudentConsole,main:78 - continue...
+10:42:58,601  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:43:02,430  INFO EnrollmentOperations,main:34 - Pay fees
+10:43:02,430  INFO EnrollmentOperations,main:35 - Enter amount: 
+10:43:04,356 ERROR PaymentServiceImpl,main:49 - User operation failed
+10:43:04,356 ERROR EnrollmentOperations,main:47 - User deletion failed
+10:43:04,356  INFO EnrollmentOperations,main:50 - Deleted user
+10:43:04,356  INFO StudentConsole,main:78 - continue...
+10:43:57,049  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:43:57,050  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:43:59,670  INFO UserOperations,main:147 - Login
+10:43:59,671  INFO UserOperations,main:148 - Enter username: 
+10:44:00,869  INFO UserOperations,main:150 - Enter password: 
+10:44:01,852  INFO UserOperations,main:168 - Welcome soham
+10:44:01,853  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:44:03,541  INFO EnrollmentOperations,main:34 - Pay fees
+10:44:03,541  INFO EnrollmentOperations,main:35 - Enter amount: 
+10:44:05,839  INFO EnrollmentOperations,main:50 - Deleted user
+10:44:05,839  INFO StudentConsole,main:78 - continue...
+10:44:11,271  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:44:12,473  INFO SMSApplication,main:66 - Exited
+10:53:46,989  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:53:46,990  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:53:48,278  INFO UserOperations,main:147 - Login
+10:53:48,278  INFO UserOperations,main:148 - Enter username: 
+10:53:49,970  INFO UserOperations,main:150 - Enter password: 
+10:53:50,861  INFO UserOperations,main:168 - Welcome soham
+10:53:50,862  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:53:52,728  INFO SMSApplication,main:66 - Exited
+10:57:09,352  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:57:09,353  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:57:10,692  INFO UserOperations,main:147 - Login
+10:57:10,693  INFO UserOperations,main:148 - Enter username: 
+10:57:11,796  INFO UserOperations,main:150 - Enter password: 
+10:57:12,982  INFO UserOperations,main:168 - Welcome soham
+10:57:12,982  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:57:15,478  INFO EnrollmentOperations,main:31 - Pay fees
+10:57:15,479  INFO EnrollmentOperations,main:36 - Enter amount: 
+10:57:18,338 ERROR NotificationServiceImpl,main:24 - User operation failed
+10:57:18,339 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.service.PaymentService.makePayment(com.flipkart.bean.Payment)" because "this.paymentService" is null
+10:57:18,339  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:58:17,176  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:58:17,177  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+10:58:18,153  INFO UserOperations,main:147 - Login
+10:58:18,153  INFO UserOperations,main:148 - Enter username: 
+10:58:19,520  INFO UserOperations,main:150 - Enter password: 
+10:58:20,311  INFO UserOperations,main:168 - Welcome soham
+10:58:20,312  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:58:20,963  INFO EnrollmentOperations,main:31 - Pay fees
+10:58:20,964  INFO EnrollmentOperations,main:36 - Enter amount: 
+10:58:22,802 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.service.PaymentService.makePayment(com.flipkart.bean.Payment)" because "this.paymentService" is null
+10:58:22,803  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+10:59:10,190  INFO SMSApplication,main:54 - Welcome to Student Management System!
+10:59:10,191  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:03:25,388  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:03:25,389  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:03:26,685  INFO UserOperations,main:147 - Login
+11:03:26,685  INFO UserOperations,main:148 - Enter username: 
+11:03:28,724  INFO UserOperations,main:150 - Enter password: 
+11:03:30,097  INFO UserOperations,main:168 - Welcome soham
+11:03:30,098  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:03:33,466  INFO StudentConsole,main:78 - continue...
+11:03:35,802  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:03:38,165  INFO EnrollmentOperations,main:33 - Pay fees
+11:03:38,166  INFO EnrollmentOperations,main:38 - Enter amount: 
+11:03:40,459  INFO EnrollmentOperations,main:56 - Payment succeed
+11:03:40,460  INFO StudentConsole,main:78 - continue...
+11:03:49,264  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:03:50,532  INFO SMSApplication,main:66 - Exited
+11:04:50,703  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:04:50,704  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:04:51,710  INFO UserOperations,main:147 - Login
+11:04:51,711  INFO UserOperations,main:148 - Enter username: 
+11:04:53,620  INFO UserOperations,main:150 - Enter password: 
+11:04:54,466  INFO UserOperations,main:168 - Welcome soham
+11:04:54,469  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:04:56,758  INFO EnrollmentOperations,main:105 - View my notifications
+11:04:58,684 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:04:58,684  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:12:20,187  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:12:20,191  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:12:21,441  INFO UserOperations,main:147 - Login
+11:12:21,441  INFO UserOperations,main:148 - Enter username: 
+11:12:23,094  INFO UserOperations,main:150 - Enter password: 
+11:12:23,931  INFO UserOperations,main:168 - Welcome soham
+11:12:23,934  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:12:27,158  INFO EnrollmentOperations,main:105 - View my notifications
+11:12:28,831 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:12:28,832  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:14:54,675  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:14:54,676  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:14:56,657  INFO UserOperations,main:147 - Login
+11:14:56,657  INFO UserOperations,main:148 - Enter username: 
+11:14:57,738  INFO UserOperations,main:150 - Enter password: 
+11:14:58,561  INFO UserOperations,main:168 - Welcome soham
+11:14:58,562  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:15:00,771  INFO EnrollmentOperations,main:105 - View my notifications
+11:15:03,780 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:15:03,780  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:15:05,303  INFO SMSApplication,main:66 - Exited
+11:15:12,985  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:15:12,985  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:15:14,949  INFO UserOperations,main:147 - Login
+11:15:14,949  INFO UserOperations,main:148 - Enter username: 
+11:15:17,066  INFO UserOperations,main:150 - Enter password: 
+11:15:18,281  INFO UserOperations,main:168 - Welcome soham
+11:15:18,282  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:15:21,709  INFO EnrollmentOperations,main:105 - View my notifications
+11:15:24,328 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:15:24,328  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:15:46,784  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:15:46,785  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:15:48,180  INFO UserOperations,main:147 - Login
+11:15:48,181  INFO UserOperations,main:148 - Enter username: 
+11:15:49,224  INFO UserOperations,main:150 - Enter password: 
+11:15:49,908  INFO UserOperations,main:168 - Welcome soham
+11:15:49,909  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:15:55,699  INFO EnrollmentOperations,main:105 - View my notifications
+11:16:10,799  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:16:10,800  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:16:12,484  INFO UserOperations,main:147 - Login
+11:16:12,485  INFO UserOperations,main:148 - Enter username: 
+11:16:13,944  INFO UserOperations,main:150 - Enter password: 
+11:16:14,700  INFO UserOperations,main:168 - Welcome soham
+11:16:14,701  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:16:17,723  INFO EnrollmentOperations,main:105 - View my notifications
+11:16:17,734  INFO EnrollmentOperations,main:116 - 
+time		message
+
+2020-10-29		Pay your fees
+2020-10-29		Pay your fees
+
+11:16:17,734  INFO StudentConsole,main:78 - continue...
+11:16:25,504  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:16:30,277  INFO SMSApplication,main:66 - Exited
+11:33:15,984  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:33:15,986  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:33:17,075  INFO UserOperations,main:147 - Login
+11:33:17,076  INFO UserOperations,main:148 - Enter username: 
+11:33:18,499  INFO UserOperations,main:150 - Enter password: 
+11:33:19,880  INFO UserOperations,main:168 - Welcome soham
+11:33:19,882  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:33:26,832  INFO CourseOperations,main:66 - List courses
+11:33:26,853  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+5	Physics		100		physics course
+
+11:33:26,853  INFO StudentConsole,main:78 - continue...
+11:33:38,819  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:33:42,610  INFO EnrollmentOperations,main:60 - Register course
+11:33:42,610  INFO EnrollmentOperations,main:61 - Enter course id: 
+11:33:44,867  INFO EnrollmentOperations,main:71 - Registered the course
+11:33:44,867  INFO StudentConsole,main:78 - continue...
+11:34:01,539  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:34:01,540 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:34:01,540  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:34:01,701 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+11:34:01,701  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:34:16,266  INFO EnrollmentOperations,main:60 - Register course
+11:34:16,267  INFO EnrollmentOperations,main:61 - Enter course id: 
+11:34:20,704  INFO EnrollmentOperations,main:78 - Dropped the course
+11:34:20,704  INFO StudentConsole,main:78 - continue...
+11:34:21,871  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:34:32,493  INFO EnrollmentOperations,main:60 - Register course
+11:34:32,493  INFO EnrollmentOperations,main:61 - Enter course id: 
+11:34:34,082  INFO EnrollmentOperations,main:78 - Dropped the course
+11:34:34,082  INFO StudentConsole,main:78 - continue...
+11:34:35,777  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:48:21,786  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:48:21,788  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:48:22,953  INFO UserOperations,main:147 - Login
+11:48:22,954  INFO UserOperations,main:148 - Enter username: 
+11:48:24,059  INFO UserOperations,main:150 - Enter password: 
+11:48:24,825  INFO UserOperations,main:168 - Welcome soham
+11:48:24,826  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:48:34,166  INFO CourseOperations,main:66 - List courses
+11:48:34,181  INFO CourseOperations,main:81 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		0		chemistry course
+5	Physics		100		physics course
+
+11:48:34,182  INFO StudentConsole,main:78 - continue...
+11:48:37,882  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:48:39,917  INFO EnrollmentOperations,main:60 - Course registration
+11:48:39,918  INFO EnrollmentOperations,main:61 - Enter course id: 
+11:48:41,954  INFO EnrollmentOperations,main:71 - Registered the course
+11:48:41,954  INFO StudentConsole,main:78 - continue...
+11:48:43,312  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:48:46,247  INFO EnrollmentOperations,main:60 - Course registration
+11:48:46,247  INFO EnrollmentOperations,main:61 - Enter course id: 
+11:48:47,851  INFO EnrollmentOperations,main:71 - Registered the course
+11:48:47,852  INFO StudentConsole,main:78 - continue...
+11:48:48,964  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:48:54,607  INFO SMSApplication,main:66 - Exited
+11:52:05,404  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:52:05,405  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:52:06,400  INFO UserOperations,main:147 - Login
+11:52:06,401  INFO UserOperations,main:148 - Enter username: 
+11:52:07,622  INFO UserOperations,main:150 - Enter password: 
+11:52:08,830  INFO UserOperations,main:168 - Welcome soham
+11:52:08,832  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:52:13,091  INFO EnrollmentOperations,main:117 - View my notifications
+11:52:13,100 ERROR CourseEnrollmentServiceImpl,main:43 - User operation failed
+11:52:13,101 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.Student.getCourses()" because "student" is null
+11:52:13,101  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:53:13,645  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:53:13,646  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:53:14,752  INFO UserOperations,main:147 - Login
+11:53:14,753  INFO UserOperations,main:148 - Enter username: 
+11:53:15,850  INFO UserOperations,main:150 - Enter password: 
+11:53:16,749  INFO UserOperations,main:168 - Welcome soham
+11:53:16,749  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:53:31,281  INFO EnrollmentOperations,main:117 - View my notifications
+11:53:31,284 ERROR CourseEnrollmentServiceImpl,main:43 - User operation failed
+11:53:31,285 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.Student.getCourses()" because "student" is null
+11:53:31,285  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:54:25,868  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:54:25,868  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:54:28,413  INFO UserOperations,main:147 - Login
+11:54:28,413  INFO UserOperations,main:148 - Enter username: 
+11:54:29,776  INFO UserOperations,main:150 - Enter password: 
+11:54:31,241  INFO UserOperations,main:168 - Welcome soham
+11:54:31,242  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:54:35,633  INFO EnrollmentOperations,main:117 - View my notifications
+11:54:35,645  INFO EnrollmentOperations,main:129 - 
+Course Id		grade
+
+3		null
+5		null
+
+11:54:35,645  INFO StudentConsole,main:78 - continue...
+11:54:40,729  INFO StudentConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. View report card
+6. My Account
+7. View my courses
+8. Pay fees
+9. View notifications
+10. Calculate fee
+
+11:54:42,405  INFO SMSApplication,main:66 - Exited
+11:57:45,082  INFO SMSApplication,main:54 - Welcome to Student Management System!
+11:57:45,082  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+11:57:45,657  INFO UserOperations,main:147 - Login
+11:57:45,657  INFO UserOperations,main:148 - Enter username: 
+11:57:46,756  INFO UserOperations,main:150 - Enter password: 
+11:57:48,044  INFO UserOperations,main:168 - Welcome soham
+11:57:48,048  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+11:57:52,483  INFO EnrollmentOperations,main:119 - View my notifications
+11:57:52,500  INFO EnrollmentOperations,main:132 - 
+Course Id		Course Name		grade
+
+3		Chemistry		null
+5		Physics		null
+
+11:57:52,500  INFO StudentConsole,main:74 - continue...
+11:57:55,988  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+11:57:55,988  INFO SMSApplication,main:66 - Exited
+12:00:40,464  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:00:40,465  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:00:41,631  INFO UserOperations,main:147 - Login
+12:00:41,631  INFO UserOperations,main:148 - Enter username: 
+12:00:43,933  INFO UserOperations,main:150 - Enter password: 
+12:00:45,080  INFO UserOperations,main:168 - Welcome soham
+12:00:45,082  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:00:47,500  INFO EnrollmentOperations,main:136 - Fees for my courses
+12:00:47,519  INFO EnrollmentOperations,main:152 - 
+Course Id		Course Name		Fees
+
+3		Chemistry		0
+5		Physics		100
+Total fees: 100
+
+12:00:47,519  INFO StudentConsole,main:74 - continue...
+12:00:53,442  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:00:55,306  INFO SMSApplication,main:66 - Exited
+12:03:45,015  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:03:45,016  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:03:46,668  INFO UserOperations,main:147 - Login
+12:03:46,669  INFO UserOperations,main:148 - Enter username: 
+12:03:48,126  INFO UserOperations,main:150 - Enter password: 
+12:03:48,988  INFO UserOperations,main:168 - Welcome soham
+12:03:48,988  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:03:51,636  INFO EnrollmentOperations,main:59 - Course registration
+12:03:51,636  INFO EnrollmentOperations,main:60 - Enter course id: 
+12:03:59,410  INFO EnrollmentOperations,main:70 - Registered the course
+12:03:59,410  INFO StudentConsole,main:74 - continue...
+12:04:01,257  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:04:11,960  INFO EnrollmentOperations,main:104 - View my notifications
+12:04:11,971  INFO EnrollmentOperations,main:115 - 
+time		message
+
+2020-10-29		Pay your fees for course with courseId 2
+2020-10-29		Pay your fees
+2020-10-29		Pay your fees
+
+12:04:11,971  INFO StudentConsole,main:74 - continue...
+12:04:19,022  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:04:19,023 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+12:04:19,023  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:04:21,026  INFO SMSApplication,main:66 - Exited
+12:12:45,414  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:12:45,414  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:12:46,665  INFO UserOperations,main:147 - Login
+12:12:46,665  INFO UserOperations,main:148 - Enter username: 
+12:12:47,825  INFO UserOperations,main:150 - Enter password: 
+12:12:50,018  INFO UserOperations,main:168 - Welcome soham
+12:12:50,020  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:12:58,488  INFO EnrollmentOperations,main:119 - View my Courses
+12:12:58,506  INFO EnrollmentOperations,main:143 - 
+Course Id		Course Name		grade
+
+3		Chemistry		null
+5		Physics		null
+2		Science		null
+
+12:12:58,506  INFO StudentConsole,main:74 - continue...
+12:13:02,509  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:13:02,509  INFO SMSApplication,main:66 - Exited
+12:16:38,904  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:16:38,905  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:16:40,347  INFO UserOperations,main:147 - Login
+12:16:40,348  INFO UserOperations,main:148 - Enter username: 
+12:16:43,337  INFO UserOperations,main:150 - Enter password: 
+12:16:45,146  INFO UserOperations,main:168 - Welcome soham
+12:16:45,147  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:16:48,230  INFO UserOperations,main:186 - logged out
+12:16:48,231  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:16:49,815  INFO UserOperations,main:147 - Login
+12:16:49,815  INFO UserOperations,main:148 - Enter username: 
+12:16:51,942  INFO UserOperations,main:150 - Enter password: 
+12:16:52,702  INFO UserOperations,main:168 - Welcome abcd
+12:16:52,705  INFO AdminConsole,main:33 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View report card
+6. Generate report card
+7. Register user
+8. Delete user
+9. Approve user
+10. List users
+11. Assign professor
+12. My account
+12:16:54,330  INFO UserOperations,main:186 - logged out
+12:16:54,330  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:16:55,706  INFO UserOperations,main:147 - Login
+12:16:55,706  INFO UserOperations,main:148 - Enter username: 
+12:17:01,903  INFO UserOperations,main:150 - Enter password: 
+12:17:04,695 ERROR UserOperations,main:164 - Failed to login. Please check your username and password.
+12:17:04,696 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+12:17:04,696  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:17:06,517  INFO SMSApplication,main:66 - Exited
+12:28:14,472  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:28:14,474  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:28:50,145  INFO UserOperations,main:147 - Login
+12:28:50,146  INFO UserOperations,main:148 - Enter username: 
+12:28:51,327  INFO UserOperations,main:150 - Enter password: 
+12:28:52,956  INFO UserOperations,main:168 - Welcome abcd
+12:28:52,959  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:28:58,592  INFO EnrollmentOperations,main:119 - View my Courses
+12:28:58,592  INFO EnrollmentOperations,main:124 - Enter student id: 
+12:29:00,347  INFO EnrollmentOperations,main:143 - 
+Course Id		Course Name		grade
+
+3		Chemistry		null
+5		Physics		null
+2		Science		null
+
+12:29:00,347  INFO AdminConsole,main:80 - continue...
+12:29:09,524  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:29:09,525 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+12:29:09,525  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:29:10,725  INFO SMSApplication,main:66 - Exited
+12:48:29,508  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:48:29,511  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:48:30,497  INFO UserOperations,main:147 - Login
+12:48:30,498  INFO UserOperations,main:148 - Enter username: 
+12:48:32,898  INFO UserOperations,main:150 - Enter password: 
+12:48:34,457  INFO UserOperations,main:168 - Welcome abcd
+12:48:34,459  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:48:38,299  INFO EnrollmentOperations,main:74 - Add professor
+12:48:38,300  INFO EnrollmentOperations,main:75 - Enter course id: 
+12:48:47,255  INFO EnrollmentOperations,main:80 - Enter professor id: 
+12:49:23,003  INFO EnrollmentOperations,main:92 - Assigned professor to course with course id 2
+12:49:23,004  INFO AdminConsole,main:80 - continue...
+12:49:24,982  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:49:30,572  INFO EnrollmentOperations,main:74 - Add professor
+12:49:30,572  INFO EnrollmentOperations,main:75 - Enter course id: 
+12:49:32,451  INFO EnrollmentOperations,main:80 - Enter professor id: 
+12:49:34,024  INFO EnrollmentOperations,main:92 - Assigned professor to course with course id 2
+12:49:34,025  INFO AdminConsole,main:80 - continue...
+12:49:41,281  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:49:43,232  INFO SMSApplication,main:66 - Exited
+12:50:18,412  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:50:18,413  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:50:21,338  INFO UserOperations,main:147 - Login
+12:50:21,338  INFO UserOperations,main:148 - Enter username: 
+12:50:23,801  INFO UserOperations,main:150 - Enter password: 
+12:50:26,028  INFO UserOperations,main:168 - Welcome rohan
+12:50:26,029  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:50:34,855  INFO EnrollmentOperations,main:110 - View my Courses
+12:50:34,858  INFO EnrollmentOperations,main:130 - 
+Course Id		Course Name		grade
+
+
+12:50:34,859  INFO StudentConsole,main:74 - continue...
+12:51:35,213  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:51:35,214  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:51:36,412  INFO UserOperations,main:147 - Login
+12:51:36,412  INFO UserOperations,main:148 - Enter username: 
+12:51:38,446  INFO UserOperations,main:150 - Enter password: 
+12:51:40,305  INFO UserOperations,main:168 - Welcome rohan
+12:51:40,306  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:51:50,616  INFO SMSApplication,main:66 - Exited
+12:52:05,740  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:52:05,740  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:52:06,829  INFO UserOperations,main:147 - Login
+12:52:06,829  INFO UserOperations,main:148 - Enter username: 
+12:52:09,499  INFO UserOperations,main:150 - Enter password: 
+12:52:11,026  INFO UserOperations,main:168 - Welcome soham
+12:52:11,027  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:52:16,202  INFO UserOperations,main:186 - logged out
+12:52:16,203  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:52:19,010  INFO UserOperations,main:147 - Login
+12:52:19,010  INFO UserOperations,main:148 - Enter username: 
+12:52:20,107  INFO UserOperations,main:150 - Enter password: 
+12:52:21,054  INFO UserOperations,main:168 - Welcome abcd
+12:52:21,055  INFO AdminConsole,main:32 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+12:52:24,176  INFO SMSApplication,main:66 - Exited
+12:53:06,330  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:53:06,332  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:53:07,517  INFO UserOperations,main:147 - Login
+12:53:07,517  INFO UserOperations,main:148 - Enter username: 
+12:53:09,721  INFO UserOperations,main:150 - Enter password: 
+12:53:11,335  INFO UserOperations,main:168 - Welcome rohan
+12:53:11,336  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:53:14,805  INFO SMSApplication,main:66 - Exited
+12:54:14,771  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:54:14,773  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:54:16,064  INFO UserOperations,main:147 - Login
+12:54:16,064  INFO UserOperations,main:148 - Enter username: 
+12:54:18,114  INFO UserOperations,main:150 - Enter password: 
+12:54:20,296  INFO UserOperations,main:168 - Welcome rohan
+12:54:39,448  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+12:55:45,211  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:55:45,214  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:55:46,278  INFO UserOperations,main:147 - Login
+12:55:46,279  INFO UserOperations,main:148 - Enter username: 
+12:55:50,856  INFO UserOperations,main:150 - Enter password: 
+12:55:52,472  INFO UserOperations,main:168 - Welcome professor
+12:55:52,474  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account6. Sign up for course7. View my courses8. View students
+12:56:29,181  INFO SMSApplication,main:54 - Welcome to Student Management System!
+12:56:29,182  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:56:29,982  INFO UserOperations,main:147 - Login
+12:56:29,982  INFO UserOperations,main:148 - Enter username: 
+12:56:31,528  INFO UserOperations,main:150 - Enter password: 
+12:56:36,357 ERROR UserOperations,main:164 - Failed to login. Please check your username and password.
+12:56:36,357 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+12:56:36,358  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+12:56:42,355  INFO UserOperations,main:147 - Login
+12:56:42,355  INFO UserOperations,main:148 - Enter username: 
+12:56:44,622  INFO UserOperations,main:150 - Enter password: 
+12:56:47,019  INFO UserOperations,main:168 - Welcome professor
+12:56:47,021  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+12:56:52,514  INFO EnrollmentOperations,main:74 - Add professor
+12:56:52,514  INFO EnrollmentOperations,main:75 - Enter course id: 
+12:56:54,675  INFO EnrollmentOperations,main:92 - Assigned professor to course with course id 3
+12:56:54,676  INFO ProfessorConsole,main:69 - continue...
+12:57:04,266  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+12:57:05,840  INFO SMSApplication,main:66 - Exited
+13:05:46,270  INFO SMSApplication,main:54 - Welcome to Student Management System!
+13:05:46,271  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:05:47,774  INFO UserOperations,main:147 - Login
+13:05:47,774  INFO UserOperations,main:148 - Enter username: 
+13:05:49,702  INFO UserOperations,main:150 - Enter password: 
+13:05:51,795  INFO UserOperations,main:168 - Welcome professor
+13:05:51,797  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:06:02,685  INFO EnrollmentOperations,main:157 - View Professor Courses
+13:06:02,701  INFO EnrollmentOperations,main:169 - 
+Course Id		Course Name
+
+2		Science
+3		Chemistry
+
+13:06:02,702  INFO ProfessorConsole,main:69 - continue...
+13:14:30,717  INFO SMSApplication,main:54 - Welcome to Student Management System!
+13:14:30,718  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:14:31,603  INFO UserOperations,main:147 - Login
+13:14:31,604  INFO UserOperations,main:148 - Enter username: 
+13:14:33,602  INFO UserOperations,main:150 - Enter password: 
+13:14:35,287  INFO UserOperations,main:168 - Welcome professor
+13:14:35,288  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:14:43,431  INFO EnrollmentOperations,main:153 - Logging grade
+13:14:43,431  INFO EnrollmentOperations,main:154 - Enter course id: 
+13:14:46,549  INFO EnrollmentOperations,main:156 - Enter student id: 
+13:14:48,282  INFO EnrollmentOperations,main:158 - Enter grade: 
+13:14:51,089  INFO EnrollmentOperations,main:166 - Assigned grade to student
+13:14:51,089  INFO ProfessorConsole,main:69 - continue...
+13:15:02,646  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:15:02,647 ERROR SMSApplication,main:62 - Error occurred: For input string: ""
+13:15:02,647  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:18:44,063  INFO SMSApplication,main:54 - Welcome to Student Management System!
+13:18:44,064  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:18:44,896  INFO UserOperations,main:147 - Login
+13:18:44,896  INFO UserOperations,main:148 - Enter username: 
+13:18:46,625  INFO UserOperations,main:150 - Enter password: 
+13:18:48,785 ERROR UserOperations,main:164 - Failed to login. Please check your username and password.
+13:18:48,785 ERROR SMSApplication,main:62 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+13:18:48,786  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:18:52,619  INFO UserOperations,main:147 - Login
+13:18:52,619  INFO UserOperations,main:148 - Enter username: 
+13:18:55,180  INFO UserOperations,main:150 - Enter password: 
+13:18:56,972  INFO UserOperations,main:168 - Welcome professor
+13:18:56,973  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:19:00,979  INFO EnrollmentOperations,main:153 - Logging grade
+13:19:00,979  INFO EnrollmentOperations,main:154 - Enter course id: 
+13:19:02,962  INFO EnrollmentOperations,main:156 - Enter student id: 
+13:19:05,094  INFO EnrollmentOperations,main:158 - Enter grade: 
+13:19:06,494  INFO EnrollmentOperations,main:166 - Assigned grade to student
+13:19:06,495  INFO ProfessorConsole,main:69 - continue...
+13:19:26,675  INFO SMSApplication,main:54 - Welcome to Student Management System!
+13:19:26,677  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:19:27,541  INFO UserOperations,main:147 - Login
+13:19:27,542  INFO UserOperations,main:148 - Enter username: 
+13:19:30,043  INFO UserOperations,main:150 - Enter password: 
+13:19:32,591  INFO UserOperations,main:168 - Welcome professor
+13:19:32,592  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:19:39,523  INFO EnrollmentOperations,main:153 - Logging grade
+13:19:39,523  INFO EnrollmentOperations,main:154 - Enter course id: 
+13:19:42,164  INFO EnrollmentOperations,main:156 - Enter student id: 
+13:19:44,925  INFO EnrollmentOperations,main:158 - Enter grade: 
+13:19:47,170  INFO EnrollmentOperations,main:166 - Assigned grade to student
+13:19:47,170  INFO ProfessorConsole,main:69 - continue...
+13:19:48,642  INFO ProfessorConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View students
+
+13:19:50,339  INFO SMSApplication,main:66 - Exited
+13:20:03,632  INFO SMSApplication,main:54 - Welcome to Student Management System!
+13:20:03,633  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:20:04,502  INFO UserOperations,main:147 - Login
+13:20:04,503  INFO UserOperations,main:148 - Enter username: 
+13:20:08,078  INFO UserOperations,main:150 - Enter password: 
+13:20:09,338  INFO UserOperations,main:168 - Welcome student
+13:20:09,340  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+13:20:13,531  INFO EnrollmentOperations,main:110 - View Student Courses
+13:20:13,549  INFO EnrollmentOperations,main:130 - 
+Course Id		Course Name		grade
+
+3		Chemistry		A
+5		Physics		null
+2		Science		null
+
+13:20:13,549  INFO StudentConsole,main:74 - continue...
+13:20:15,839  INFO StudentConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+13:20:17,189  INFO SMSApplication,main:66 - Exited
+13:51:38,371  INFO SMSApplication,main:47 - Welcome to Student Management System!
+13:51:38,374  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+13:51:39,583  INFO UserOperations,main:134 - Login
+13:51:39,583  INFO UserOperations,main:135 - Enter username: 
+13:51:42,360  INFO UserOperations,main:137 - Enter password: 
+13:51:44,454  INFO UserOperations,main:151 - Welcome professor
+13:51:44,456  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+13:51:47,313  INFO UserOperations,main:91 - List users
+13:51:47,325  INFO UserOperations,main:104 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	admin		ADMIN
+13	student		STUDENT
+15	professor		PROFESSOR
+
+13:51:47,325  INFO ProfessorConsole,main:68 - continue...
+13:51:53,087  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View report card
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+13:51:54,269  INFO SMSApplication,main:59 - Exited
+14:59:21,634  INFO SMSApplication,main:47 - Welcome to Student Management System!
+14:59:21,636  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+14:59:29,437  INFO UserOperations,main:134 - Login
+14:59:29,437  INFO UserOperations,main:135 - Enter username: 
+14:59:32,385  INFO UserOperations,main:137 - Enter password: 
+14:59:34,611  INFO UserOperations,main:151 - Welcome admin
+14:59:34,618  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+14:59:47,933  INFO CourseOperations,main:61 - List courses
+14:59:47,953  INFO CourseOperations,main:74 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		200		chemistry course
+5	Physics		100		physics course
+
+14:59:47,954  INFO AdminConsole,main:79 - continue...
+15:00:02,182  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:00:02,183 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+15:00:02,183  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:00:12,983  INFO UserOperations,main:91 - List users
+15:00:12,991  INFO UserOperations,main:104 - 
+id		name		role
+
+8	Hello world!		ADMIN
+12	admin		ADMIN
+13	student		STUDENT
+15	professor		PROFESSOR
+
+15:00:12,991  INFO AdminConsole,main:79 - continue...
+15:00:22,103  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:00:22,103 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+15:00:22,104  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:00:25,059  INFO UserOperations,main:167 - logged out
+15:00:25,060  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:00:27,211  INFO UserOperations,main:134 - Login
+15:00:27,211  INFO UserOperations,main:135 - Enter username: 
+15:00:29,840  INFO UserOperations,main:137 - Enter password: 
+15:00:31,352  INFO UserOperations,main:151 - Welcome student
+15:00:31,354  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:00:39,716  INFO CourseOperations,main:61 - List courses
+15:00:39,718  INFO CourseOperations,main:74 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		200		chemistry course
+5	Physics		100		physics course
+
+15:00:39,718  INFO StudentConsole,main:72 - continue...
+15:00:42,108  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:00:50,577  INFO EnrollmentOperations,main:96 - View my notifications
+15:00:50,593  INFO EnrollmentOperations,main:106 - 
+time		message
+
+2020-10-29		Pay your fees for course with courseId 2
+2020-10-29		Pay your fees
+2020-10-29		Pay your fees
+
+15:00:50,594  INFO StudentConsole,main:72 - continue...
+15:01:26,704  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:01:26,704 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+15:01:26,705  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:01:40,231  INFO UserOperations,main:167 - logged out
+15:01:40,231  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:01:42,332  INFO UserOperations,main:134 - Login
+15:01:42,332  INFO UserOperations,main:135 - Enter username: 
+15:01:45,097  INFO UserOperations,main:137 - Enter password: 
+15:01:46,968  INFO UserOperations,main:151 - Welcome professor
+15:01:46,972  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:01:53,941  INFO EnrollmentOperations,main:110 - View Student Courses
+15:01:53,941  INFO EnrollmentOperations,main:114 - Enter student id: 
+15:01:57,065  INFO EnrollmentOperations,main:130 - 
+Course Id		Course Name		grade
+
+3		Chemistry		A
+5		Physics		null
+2		Science		null
+
+15:01:57,065  INFO ProfessorConsole,main:68 - continue...
+15:02:05,882  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:02:05,883 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+15:02:05,883  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:02:13,590  INFO UserOperations,main:167 - logged out
+15:02:13,591  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:02:17,995  INFO UserOperations,main:30 - User registration
+15:02:17,995  INFO UserOperations,main:31 - Enter user type  1. Student   2. Professor  3. Admin
+15:02:32,368  INFO UserOperations,main:52 - Enter username : 
+15:02:37,793  INFO UserOperations,main:54 - Enter password: 
+15:02:42,418  INFO UserOperations,main:56 - Enter name : 
+15:02:49,977  INFO UserOperations,main:73 - User professor is registered
+15:02:49,978  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:03:34,859  INFO UserOperations,main:134 - Login
+15:03:34,859  INFO UserOperations,main:135 - Enter username: 
+15:03:37,589  INFO UserOperations,main:137 - Enter password: 
+15:03:39,404  INFO UserOperations,main:151 - Welcome admin
+15:03:39,404  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:03:45,659  INFO UserOperations,main:108 - Approve user
+15:03:45,659  INFO UserOperations,main:109 - Enter user id: 
+15:03:52,560  INFO UserOperations,main:118 - Approved user
+15:03:52,560  INFO AdminConsole,main:79 - continue...
+15:03:54,080  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:04:08,676  INFO UserOperations,main:167 - logged out
+15:04:08,676  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:04:10,235  INFO UserOperations,main:134 - Login
+15:04:10,235  INFO UserOperations,main:135 - Enter username: 
+15:04:17,150  INFO UserOperations,main:137 - Enter password: 
+15:04:20,745  INFO UserOperations,main:151 - Welcome professor
+15:04:20,746  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:04:29,100  INFO CourseOperations,main:61 - List courses
+15:04:29,102  INFO CourseOperations,main:74 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		200		chemistry course
+5	Physics		100		physics course
+
+15:04:29,102  INFO ProfessorConsole,main:68 - continue...
+15:04:34,992  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:04:40,429  INFO SMSApplication,main:59 - Exited
+15:14:43,588  INFO SMSApplication,main:47 - Welcome to Student Management System!
+15:14:43,589  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:14:58,281  INFO UserOperations,main:134 - Login
+15:14:58,282  INFO UserOperations,main:135 - Enter username: 
+15:15:02,639  INFO UserOperations,main:137 - Enter password: 
+15:15:06,732  INFO UserOperations,main:151 - Welcome professor
+15:15:06,733  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:15:32,920  INFO SMSApplication,main:59 - Exited
+15:16:57,431  INFO SMSApplication,main:47 - Welcome to Student Management System!
+15:16:57,432  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:16:58,889  INFO UserOperations,main:134 - Login
+15:16:58,890  INFO UserOperations,main:135 - Enter username: 
+15:17:06,849  INFO UserOperations,main:137 - Enter password: 
+15:17:15,691  INFO UserOperations,main:151 - Welcome professor
+15:17:15,692  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+15:17:24,733  INFO UserOperations,main:167 - logged out
+15:17:24,733  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:17:35,724  INFO UserOperations,main:134 - Login
+15:17:35,724  INFO UserOperations,main:135 - Enter username: 
+15:17:38,643  INFO UserOperations,main:137 - Enter password: 
+15:17:41,698  INFO UserOperations,main:151 - Welcome student
+15:17:41,699  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:17:45,597  INFO EnrollmentOperations,main:96 - View my notifications
+15:17:45,607  INFO EnrollmentOperations,main:106 - 
+time		message
+
+2020-10-29		Pay your fees for course with courseId 2
+2020-10-29		Pay your fees
+2020-10-29		Pay your fees
+
+15:17:45,607  INFO StudentConsole,main:72 - continue...
+15:17:56,939  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:18:02,361  INFO SMSApplication,main:59 - Exited
+15:19:00,286  INFO SMSApplication,main:47 - Welcome to Student Management System!
+15:19:00,287  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:19:01,415  INFO UserOperations,main:134 - Login
+15:19:01,415  INFO UserOperations,main:135 - Enter username: 
+15:19:04,532  INFO UserOperations,main:137 - Enter password: 
+15:19:06,429  INFO UserOperations,main:151 - Welcome student
+15:19:06,430  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:19:19,698  INFO EnrollmentOperations,main:134 - Fees for my courses
+15:19:19,720  INFO EnrollmentOperations,main:149 - 
+Course Id		Course Name		Fees
+
+3		Chemistry		200
+5		Physics		100
+2		Science		100
+Total fees: 400
+
+15:19:19,721  INFO StudentConsole,main:72 - continue...
+15:19:29,610  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:19:35,968  INFO EnrollmentOperations,main:110 - View Student Courses
+15:19:35,979  INFO EnrollmentOperations,main:130 - 
+Course Id		Course Name		grade
+
+3		Chemistry		A
+5		Physics		null
+2		Science		null
+
+15:19:35,980  INFO StudentConsole,main:72 - continue...
+15:19:40,687  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:19:43,740  INFO CourseOperations,main:61 - List courses
+15:19:43,749  INFO CourseOperations,main:74 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		200		chemistry course
+5	Physics		100		physics course
+
+15:19:43,749  INFO StudentConsole,main:72 - continue...
+15:19:46,894  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:19:50,600  INFO EnrollmentOperations,main:51 - Course registration
+15:19:50,601  INFO EnrollmentOperations,main:52 - Enter course id: 
+15:19:54,013 ERROR SMSApplication,main:55 - Error occurred: For input string: "ggg"
+15:19:54,013  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+15:20:00,901  INFO SMSApplication,main:59 - Exited
+15:22:07,305  INFO SMSApplication,main:47 - Welcome to Student Management System!
+15:22:07,307  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:22:08,532  INFO UserOperations,main:134 - Login
+15:22:08,532  INFO UserOperations,main:135 - Enter username: 
+15:22:10,173  INFO UserOperations,main:137 - Enter password: 
+15:22:11,049  INFO UserOperations,main:151 - Welcome admin
+15:22:11,051  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student cou2rses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:22:13,370  INFO UserOperations,main:108 - Approve user
+15:22:13,370  INFO UserOperations,main:109 - Enter user id: 
+15:22:19,087 ERROR SMSApplication,main:55 - Error occurred: For input string: "ffff"
+15:22:19,088  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student cou2rses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:22:21,517  INFO SMSApplication,main:59 - Exited
+15:24:59,483  INFO SMSApplication,main:47 - Welcome to Student Management System!
+15:24:59,484  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:25:00,509  INFO UserOperations,main:134 - Login
+15:25:00,509  INFO UserOperations,main:135 - Enter username: 
+15:25:02,082  INFO UserOperations,main:137 - Enter password: 
+15:25:03,358  INFO UserOperations,main:151 - Welcome admin
+15:25:03,361  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+15:25:08,275  INFO UserOperations,main:167 - logged out
+15:25:08,276  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:25:10,872  INFO UserOperations,main:134 - Login
+15:25:10,872  INFO UserOperations,main:135 - Enter username: 
+15:25:13,627  INFO UserOperations,main:137 - Enter password: 
+15:25:17,513 ERROR UserOperations,main:147 - Failed to login. Please check your username and password.
+15:25:17,515 ERROR SMSApplication,main:55 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+15:25:17,515  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+15:25:26,688  INFO SMSApplication,main:59 - Exited
+08:41:12,446  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:41:12,447  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:41:14,974  INFO UserOperations,main:134 - Login
+08:41:14,974  INFO UserOperations,main:135 - Enter username: 
+08:41:20,823  INFO UserOperations,main:137 - Enter password: 
+08:41:22,882  INFO UserOperations,main:151 - Welcome professor
+08:41:22,886  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:41:29,359  INFO CourseOperations,main:61 - List courses
+08:41:29,383  INFO CourseOperations,main:74 - 
+id	name		fees		description
+
+2	Science		100		science course
+3	Chemistry		200		chemistry course
+5	Physics		100		physics course
+
+08:41:29,383  INFO ProfessorConsole,main:68 - continue...
+08:41:42,599  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:41:42,599 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+08:41:42,600  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:41:42,600 ERROR SMSApplication,main:55 - Error occurred: For input string: ""
+08:41:42,600  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:41:53,455  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:41:53,473 ERROR SMSApplication,main:55 - Error occurred: Format specifier '%-1$6s'
+08:41:53,473  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:42:22,152  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:42:22,153  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:42:24,910  INFO UserOperations,main:134 - Login
+08:42:24,911  INFO UserOperations,main:135 - Enter username: 
+08:42:27,921  INFO UserOperations,main:137 - Enter password: 
+08:42:31,323  INFO UserOperations,main:151 - Welcome professor
+08:42:31,324  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:42:34,306  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:42:34,312 ERROR SMSApplication,main:55 - Error occurred: Format specifier '%-1$6s'
+08:42:34,312  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:48:08,322  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:48:08,324  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:48:10,019  INFO UserOperations,main:134 - Login
+08:48:10,019  INFO UserOperations,main:135 - Enter username: 
+08:48:14,131  INFO UserOperations,main:137 - Enter password: 
+08:48:15,910  INFO UserOperations,main:151 - Welcome professor
+08:48:15,910  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:48:20,561  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:48:20,572  INFO EnrollmentOperations,main:185 - id    name                          ScienceScience                       ChemistryChemistry                     
+08:48:20,573  INFO ProfessorConsole,main:68 - continue...
+08:48:46,602  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:48:46,603  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:48:47,551  INFO UserOperations,main:134 - Login
+08:48:47,552  INFO UserOperations,main:135 - Enter username: 
+08:48:49,905  INFO UserOperations,main:137 - Enter password: 
+08:48:52,124  INFO UserOperations,main:151 - Welcome professor
+08:48:52,126  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:49:00,590  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:49:00,602  INFO EnrollmentOperations,main:185 - id    name                          
+ScienceScience                       
+ChemistryChemistry                     
+
+08:49:00,602  INFO ProfessorConsole,main:68 - continue...
+08:49:17,677  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:49:17,678  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:49:21,791  INFO UserOperations,main:134 - Login
+08:49:21,791  INFO UserOperations,main:135 - Enter username: 
+08:49:24,899  INFO UserOperations,main:137 - Enter password: 
+08:49:27,049  INFO UserOperations,main:151 - Welcome professor
+08:49:27,050  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:49:29,385  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:49:29,392  INFO EnrollmentOperations,main:185 - id    name                          
+2     Science                       
+3     Chemistry                     
+
+08:49:29,392  INFO ProfessorConsole,main:68 - continue...
+08:49:34,232  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:49:35,467  INFO SMSApplication,main:59 - Exited
+08:50:13,622  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:50:13,625  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:50:14,918  INFO UserOperations,main:134 - Login
+08:50:14,918  INFO UserOperations,main:135 - Enter username: 
+08:50:18,514  INFO UserOperations,main:137 - Enter password: 
+08:50:20,262  INFO UserOperations,main:151 - Welcome professor
+08:50:20,263  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:50:26,397  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:50:26,407  INFO EnrollmentOperations,main:185 - 
+id    name                          
+2     Science                       
+3     Chemistry                     
+
+08:50:26,407  INFO ProfessorConsole,main:68 - continue...
+08:50:40,124  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:50:41,531  INFO SMSApplication,main:59 - Exited
+08:51:17,655  INFO SMSApplication,main:47 - Welcome to Student Management System!
+08:51:17,657  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+08:51:18,981  INFO UserOperations,main:134 - Login
+08:51:18,982  INFO UserOperations,main:135 - Enter username: 
+08:51:21,742  INFO UserOperations,main:137 - Enter password: 
+08:51:24,476  INFO UserOperations,main:151 - Welcome professor
+08:51:24,477  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:51:26,337  INFO EnrollmentOperations,main:171 - View Professor Courses
+08:51:26,347  INFO EnrollmentOperations,main:186 - 
+id    name                          
+                                    
+2     Science                       
+3     Chemistry                     
+
+08:51:26,347  INFO ProfessorConsole,main:68 - continue...
+08:51:30,463  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+08:51:31,494  INFO SMSApplication,main:59 - Exited
+09:03:15,392  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:03:15,393  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:03:16,662  INFO UserOperations,main:134 - Login
+09:03:16,663  INFO UserOperations,main:135 - Enter username: 
+09:03:19,235  INFO UserOperations,main:137 - Enter password: 
+09:03:20,968  INFO UserOperations,main:151 - Welcome professor
+09:03:20,969  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+09:03:23,097  INFO EnrollmentOperations,main:171 - View Professor Courses
+09:03:23,107  INFO EnrollmentOperations,main:186 - 
+id    name                          
+                                    
+2     Science                       
+3     Chemistry                     
+
+09:03:23,107  INFO ProfessorConsole,main:68 - continue...
+09:03:25,624  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+09:03:26,602  INFO SMSApplication,main:59 - Exited
+09:10:06,349  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:10:06,350  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:10:07,661  INFO UserOperations,main:134 - Login
+09:10:07,661  INFO UserOperations,main:135 - Enter username: 
+09:10:11,470  INFO UserOperations,main:137 - Enter password: 
+09:10:13,725  INFO UserOperations,main:151 - Welcome professor
+09:10:13,726  INFO ProfessorConsole,main:29 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Log grade
+4. View Student Grades
+5. My account
+6. Sign up for course
+7. View my courses
+8. View users
+
+09:10:17,042  INFO UserOperations,main:167 - logged out
+09:10:17,043  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:10:18,521  INFO UserOperations,main:134 - Login
+09:10:18,521  INFO UserOperations,main:135 - Enter username: 
+09:10:20,003  INFO UserOperations,main:137 - Enter password: 
+09:10:22,136  INFO UserOperations,main:151 - Welcome student
+09:10:22,140  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:10:24,951  INFO EnrollmentOperations,main:97 - View notifications
+09:10:24,971  INFO EnrollmentOperations,main:111 - 
+date                message                                                                                                                                                                                                 
+                                                                                                                                                                                                                            
+3                   Pay your fees for course with courseId 2                                                                                                                                                                
+2                   Pay your fees                                                                                                                                                                                           
+1                   Pay your fees                                                                                                                                                                                           
+
+09:10:24,971  INFO StudentConsole,main:72 - continue...
+09:10:40,707  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:10:40,708  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:10:42,113  INFO UserOperations,main:134 - Login
+09:10:42,114  INFO UserOperations,main:135 - Enter username: 
+09:10:46,122  INFO UserOperations,main:137 - Enter password: 
+09:10:47,488  INFO UserOperations,main:151 - Welcome student
+09:10:47,489  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:10:49,321  INFO EnrollmentOperations,main:97 - View notifications
+09:10:49,328  INFO EnrollmentOperations,main:111 - 
+date                message                                                                                                                                                                                                 
+                                                                                                                                                                                                                            
+2020-10-29          Pay your fees for course with courseId 2                                                                                                                                                                
+2020-10-29          Pay your fees                                                                                                                                                                                           
+2020-10-29          Pay your fees                                                                                                                                                                                           
+
+09:10:49,329  INFO StudentConsole,main:72 - continue...
+09:11:04,873  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:11:06,832  INFO SMSApplication,main:59 - Exited
+09:14:20,926  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:14:20,928  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:14:22,057  INFO UserOperations,main:134 - Login
+09:14:22,058  INFO UserOperations,main:135 - Enter username: 
+09:14:24,247  INFO UserOperations,main:137 - Enter password: 
+09:14:25,553  INFO UserOperations,main:151 - Welcome student
+09:14:25,554  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:14:34,338  INFO EnrollmentOperations,main:115 - View Student Courses
+09:14:34,351 ERROR SMSApplication,main:55 - Error occurred: Conversion = '3'
+09:14:34,351  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:14:55,242  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:14:55,243  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:14:57,888  INFO UserOperations,main:134 - Login
+09:14:57,888  INFO UserOperations,main:135 - Enter username: 
+09:15:00,269  INFO UserOperations,main:137 - Enter password: 
+09:15:02,981 ERROR UserOperations,main:147 - Failed to login. Please check your username and password.
+09:15:02,982 ERROR SMSApplication,main:55 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+09:15:02,983  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:15:04,626  INFO UserOperations,main:134 - Login
+09:15:04,626  INFO UserOperations,main:135 - Enter username: 
+09:15:06,796  INFO UserOperations,main:137 - Enter password: 
+09:15:07,963  INFO UserOperations,main:151 - Welcome student
+09:15:07,964  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:15:11,073  INFO EnrollmentOperations,main:115 - View Student Courses
+09:15:11,078 ERROR SMSApplication,main:55 - Error occurred: Format specifier '%-3$5s'
+09:15:11,079  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:15:38,644  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:15:38,646  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:15:41,489  INFO UserOperations,main:134 - Login
+09:15:41,489  INFO UserOperations,main:135 - Enter username: 
+09:15:43,415  INFO UserOperations,main:137 - Enter password: 
+09:15:45,414  INFO UserOperations,main:151 - Welcome student
+09:15:45,415  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:15:48,149  INFO EnrollmentOperations,main:115 - View Student Courses
+09:15:48,160  INFO EnrollmentOperations,main:138 - 
+course id course name                   grade
+                                             
+3         Chemistry                     A    
+5         Physics                       null 
+2         Science                       null 
+
+09:15:48,161  INFO StudentConsole,main:72 - continue...
+09:16:07,765  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:16:07,766  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:16:09,804  INFO UserOperations,main:134 - Login
+09:16:09,804  INFO UserOperations,main:135 - Enter username: 
+09:16:12,661  INFO UserOperations,main:137 - Enter password: 
+09:16:14,636  INFO UserOperations,main:151 - Welcome student
+09:16:14,637  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:16:17,528  INFO EnrollmentOperations,main:115 - View Student Courses
+09:16:17,539  INFO EnrollmentOperations,main:138 - 
+course id      course name                   grade
+                                                  
+3              Chemistry                     A    
+5              Physics                       null 
+2              Science                       null 
+
+09:16:17,539  INFO StudentConsole,main:72 - continue...
+09:16:34,162  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:16:34,163  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:16:35,886  INFO UserOperations,main:134 - Login
+09:16:35,887  INFO UserOperations,main:135 - Enter username: 
+09:16:37,774  INFO UserOperations,main:137 - Enter password: 
+09:16:39,950  INFO UserOperations,main:151 - Welcome student
+09:16:39,951  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:16:45,051  INFO EnrollmentOperations,main:115 - View Student Courses
+09:16:45,062  INFO EnrollmentOperations,main:138 - 
+course id      course name         grade
+                                        
+3              Chemistry           A    
+5              Physics             null 
+2              Science             null 
+
+09:16:45,063  INFO StudentConsole,main:72 - continue...
+09:16:47,397  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:16:48,049  INFO SMSApplication,main:59 - Exited
+09:21:19,031  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:21:19,033  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:21:19,678  INFO UserOperations,main:134 - Login
+09:21:19,679  INFO UserOperations,main:135 - Enter username: 
+09:21:21,587  INFO UserOperations,main:137 - Enter password: 
+09:21:22,755  INFO UserOperations,main:151 - Welcome student
+09:21:22,756  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:21:25,040  INFO EnrollmentOperations,main:142 - Fees for my courses
+09:21:25,045 ERROR SMSApplication,main:55 - Error occurred: Conversion = '3'
+09:21:25,045  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:21:38,850  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:21:38,851  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:21:40,870  INFO UserOperations,main:134 - Login
+09:21:40,870  INFO UserOperations,main:135 - Enter username: 
+09:21:42,568  INFO UserOperations,main:137 - Enter password: 
+09:21:44,137  INFO UserOperations,main:151 - Welcome student
+09:21:44,138  INFO StudentConsole,main:30 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Register course
+4. Drop course
+5. My Account
+6. View my courses
+7. Pay fees
+8. View notifications
+9. Calculate fee
+
+09:21:46,877  INFO EnrollmentOperations,main:142 - Fees for my courses
+09:21:46,893  INFO EnrollmentOperations,main:159 - 
+course id      course name         fees      
+                                             
+3              Chemistry           200       
+5              Physics             100       
+2              Science             100       
+
+Total fees: 400
+09:21:46,893  INFO StudentConsole,main:72 - continue...
+09:26:52,047  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:26:52,049  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:26:52,856  INFO UserOperations,main:139 - Login
+09:26:52,856  INFO UserOperations,main:140 - Enter username: 
+09:26:54,141  INFO UserOperations,main:142 - Enter password: 
+09:26:55,111  INFO UserOperations,main:156 - Welcome admin
+09:26:55,113  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+09:27:02,495  INFO UserOperations,main:93 - List users
+09:27:02,502  INFO UserOperations,main:110 - 
+id        name                role           
+                                             
+8         Hello world!        ADMIN          
+12        admin               ADMIN          
+13        student             STUDENT        
+15        professor           PROFESSOR      
+16        professor           PROFESSOR      
+
+09:27:02,503  INFO AdminConsole,main:79 - continue...
+09:27:14,292  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+09:27:15,217  INFO SMSApplication,main:59 - Exited
+09:29:54,198  INFO SMSApplication,main:47 - Welcome to Student Management System!
+09:29:54,201  INFO DashboardConsole,main:22 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+09:29:55,144  INFO UserOperations,main:139 - Login
+09:29:55,144  INFO UserOperations,main:140 - Enter username: 
+09:30:00,782  INFO UserOperations,main:142 - Enter password: 
+09:30:01,753  INFO UserOperations,main:156 - Welcome admin
+09:30:01,754  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+09:30:04,879  INFO CourseOperations,main:62 - List courses
+09:30:04,884  INFO CourseOperations,main:79 - 
+course id      course name         fees   description                                                                                         
+                                                                                                                                              
+2              Science             100    science course                                                                                      
+3              Chemistry           200    chemistry course                                                                                    
+5              Physics             100    physics course                                                                                      
+
+09:30:04,885  INFO AdminConsole,main:79 - continue...
+09:30:07,758  INFO AdminConsole,main:31 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+09:30:08,899  INFO SMSApplication,main:59 - Exited
+23:41:54,116  INFO SMSApplication,main:53 - Welcome to Student Management System!
+23:41:54,121  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:41:56,459 ERROR SMSApplication,main:61 - Error occurred: For input string: ""
+23:41:56,459  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:41:56,460  INFO UserOperations,main:164 - Login
+23:41:56,460  INFO UserOperations,main:165 - Enter username: 
+23:41:59,451  INFO UserOperations,main:167 - Enter password: 
+23:42:00,274 ERROR UserOperations,main:177 - Failed to login. Please check your username and password.
+23:42:00,274 ERROR SMSApplication,main:61 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+23:42:00,275  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:42:04,049  INFO UserOperations,main:164 - Login
+23:42:04,049  INFO UserOperations,main:165 - Enter username: 
+23:42:11,236  INFO UserOperations,main:167 - Enter password: 
+23:42:13,113 ERROR UserOperations,main:177 - Failed to login. Please check your username and password.
+23:42:13,113 ERROR SMSApplication,main:61 - Error occurred: Cannot invoke "com.flipkart.bean.User.getName()" because "user" is null
+23:42:13,113  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:42:17,903  INFO SMSApplication,main:65 - Exited
+23:54:27,012  INFO SMSApplication,main:53 - Welcome to Student Management System!
+23:54:27,013  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:54:28,889  INFO UserOperations,main:168 - Login
+23:54:28,889  INFO UserOperations,main:169 - Enter username: 
+23:54:32,604  INFO UserOperations,main:171 - Enter password: 
+23:54:33,766  INFO UserOperations,main:185 - Welcome admin
+23:54:33,769  INFO AdminConsole,main:39 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+23:54:36,213  INFO UserOperations,main:111 - List users
+23:54:36,217  INFO UserOperations,main:128 - 
+id        name                role           
+                                             
+8         Hello Shubham!      ADMIN          
+12        admin               ADMIN          
+13        student             STUDENT        
+15        professor           PROFESSOR      
+16        professor           PROFESSOR      
+
+23:54:36,217  INFO AdminConsole,main:87 - continue...
+23:54:48,138  INFO AdminConsole,main:39 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+23:55:00,094  INFO SMSApplication,main:65 - Exited
+23:55:28,301  INFO SMSApplication,main:53 - Welcome to Student Management System!
+23:55:28,302  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+23:55:32,961  INFO SMSApplication,main:65 - Exited
+00:07:10,787  INFO SMSApplication,main:53 - Welcome to Student Management System!
+00:07:10,788  INFO DashboardConsole,main:30 - 
+Enter operation: 
+1. Login
+2. Sign up
+0. Exit
+00:07:14,390  INFO UserOperations,main:168 - Login
+00:07:14,391  INFO UserOperations,main:169 - Enter username: 
+00:07:16,742  INFO UserOperations,main:171 - Enter password: 
+00:07:17,691  INFO UserOperations,main:185 - Welcome admin
+00:07:17,693  INFO AdminConsole,main:39 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+00:07:21,027  INFO EnrollmentOperations,main:144 - View Student Courses
+00:07:21,028  INFO EnrollmentOperations,main:148 - Enter student id: 
+00:07:23,913  INFO EnrollmentOperations,main:167 - 
+course id      course name         grade
+                                        
+2              Science             null 
+3              Chemistry           A    
+5              Physics             null 
+
+00:07:23,914  INFO AdminConsole,main:87 - continue...
+00:07:27,257  INFO AdminConsole,main:39 - 
+Enter operation : 
+0. Exit
+1. Logout
+2. View courses
+3. Add course
+4. Remove course
+5. View student courses
+6. Register user
+7. Delete user
+8. Approve user
+9. List users
+10. Assign professor
+11. My account
+00:07:30,174  INFO SMSApplication,main:65 - Exited

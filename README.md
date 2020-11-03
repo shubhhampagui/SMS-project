@@ -1,2 +1,2 @@
-# SMS_flipkart
+# SMS-project
 Student Management System
