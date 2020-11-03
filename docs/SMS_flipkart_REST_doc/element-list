@@ -1,0 +1,11 @@
+com.flipkart.bean
+com.flipkart.constant
+com.flipkart.dao
+com.flipkart.enums
+com.flipkart.exception
+com.flipkart.rest
+com.flipkart.service
+com.flipkart.test
+com.flipkart.test.mock
+com.flipkart.test.service
+com.flipkart.util
